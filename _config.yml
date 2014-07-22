@@ -7,7 +7,7 @@ permalink: pretty
 title: GDG DevFest Istanbul 2014
 email: info@gdgistanbul.com
 description: "GDG DevFest - the biggest Google related event in Turkey"
-baseurl: "/devfest14"
+baseurl: ""
 url: "http://devfesttr.com/"
 permalink: /blog/:title
 googleAnalyticsTrackingId: "UA-41931868-1"
