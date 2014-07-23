@@ -13,7 +13,7 @@ permalink: /blog/:title
 googleAnalyticsTrackingId: "UA-41931868-1"
 googleAnalyticsSiteUrl: "devfesttr.com"
 
-# Conference Locaion block
+# Conference Location block
 eventLocationName: "Üsküdar Bağlarbaşı Kültür Merkezi"
 eventLocationAddress: "Selamiali Mh Eski Bağlarbaşı İETT garajı Bağlarbaşı Üsküdar, İstanbul"
 eventStartTime: "2014-10-18T09:00"
@@ -32,10 +32,10 @@ logisticsMapMobileCenterCoordinates: "41.02385,29.031556"
 subscribeAction: "http://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
 
 # Documents
-c4pUrl: "http://bit.ly/dfua-c4p"
+c4pUrl: "http://goo.gl/6du2Z4"
 
 # Head
-metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, istanbul, devfestist"
+metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, istanbul, devfestist, devfesttr"
 twitterAccount: "@GDGIstanbul"
 socialImageSrc: "/img/hero.jpg"
 
