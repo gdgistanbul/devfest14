@@ -7,9 +7,9 @@ isStaticPost: false
 
 We're very excited - not just because of the inordinate amount of caffeine based products consumed - 
 but also because our team are putting together 
-the final missing parts to the biggest Google related event in Ukraine - [GDG DevFest 2014](http://devfest.gdg.org.ua/). 
+the final missing parts to the biggest Google related event in Turkey - [GDG DevFest 2014](http://devfesttr.com). 
 
-This year event will take place in cultural capital of Ukraine - Lviv. Being a unique European city in Ukraine, Lviv is among top 10 cities of the world to visit in 2014 according to the travel group “The Rough Guide” and is among top 10 cities for spending weekends in Europe according to Lonely Planet. So take your time to spend weeked in last hidden gem in the Europe in company of experts and technical geeks.
+This year event will take place in cultural capitals of Turkey - Istanbul, Eskişehir and Ankara. Being a unique European city in Ukraine, Lviv is among top 10 cities of the world to visit in 2014 according to the travel group “The Rough Guide” and is among top 10 cities for spending weekends in Europe according to Lonely Planet. So take your time to spend weeked in last hidden gem in the Europe in company of experts and technical geeks.
 
 So should you also be excited? Well yes... and here's why!
 
@@ -27,4 +27,4 @@ but we've already secured a first batch of experts:
 * **Roman Mazur** - speaker on various international conferences like Droidcon Eastern Europe and Ankara Developer Days<br>
 
 
-More details about speakers, DevFest Hackathon and Lviv will appear in subsequent posts, meantime like us on [Facebook](https://facebook.com/GDGLviv), follow on [Twitter](https://twitter.com/intent/user?screen_name=GDGLviv), add to circles in [Google+](https://plus.google.com/b/102444623953913144164) or subcribe to our [mailing list](http://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&id=ae0fb459fc) and [RSS feed](http://devfest.gdg.org.ua/feed.xml) in order not to miss any cool stuff about festival.
+More details about speakers, DevFest Hackathon and Lviv will appear in subsequent posts, meantime like us on [Facebook](https://facebook.com/GDGLviv), follow on [Twitter](https://twitter.com/intent/user?screen_name=gdgturkiye), add to circles in [Google+](https://plus.google.com/+Gdgistanbul) or subcribe to our [mailing list](http://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&id=ae0fb459fc) and [RSS feed](http://ddevfesttr.com/feed.xml) in order not to miss any cool stuff about festival.
