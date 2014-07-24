@@ -64,4 +64,4 @@ __Please note:__ There is no guarantee that a submission will be put onto the co
 The program committee picks the most interesting talk proposals and informs the selected submitters until September 15, 2014.<br/>
 
 #### Any questions? 
-Email organizers at [info@gdgistanbul.com(mailto:info@gdgistanbul.com)
+Email organizers at [info@gdgistanbul.com](mailto:info@gdgistanbul.com)
