@@ -4,7 +4,7 @@ title:  "Call for Papers"
 date:   2014-07-25 12:00:00
 isStaticPost: false
 ---
-Devfest Istanbul 2014 will be held 18th of October in one of the most beautiful cities in the world: Istanbul. If you want to be part of this great event and community go ahead and fill the form. 
+Devfest Istanbul 2014 will be held thi fall in one of the most beautiful cities in the world: Istanbul. If you want to be part of this great event and community go ahead and fill the form. 
 
 #### Presenters – who should speak at the DevFest Conference?
 
