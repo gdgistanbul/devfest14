@@ -76,3 +76,18 @@
     - {name: "twitter", link: "https://twitter.com/tasomaniac"}
     - {name: "github", link: "https://github.com/tasomaniac"}
     - {name: "site", link: "http://www.tasomaniac.com/"}
+- 
+  id: 5
+  name: "Halil"
+  surname: "Kaya"
+  company: "Arkenus, GDG Istanbul"
+  title: "Software Developer"
+  bio: 'Android and PHP developer, free software volunteer, Linux lover and GDG Istanbul Co-organizer.'
+  thumbnailUrl: SaidTahsinDane.jpg
+  team: true
+  rockstar: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+HalilKaya"}
+    - {name: "twitter", link: "https://twitter.com/halilkaya"}
+    - {name: "github", link: "https://github.com/halilkaya"}
+    - {name: "site", link: "http://www.halilkaya.net/"}
