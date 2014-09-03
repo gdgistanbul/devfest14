@@ -44,7 +44,7 @@
   surname: "Keklik"
   title: "Android Developer"
   thumbnailUrl: HasanKeklik.jpg
-  subTeam: true
+  team: true
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+HasanKeklik"}
     - {name: "twitter", link: "https://twitter.com/keklikhasan"}
@@ -55,7 +55,7 @@
   surname: "Dane"
   title: "Android Developer"
   thumbnailUrl: SaidTahsinDane.jpg
-  subTeam: true
+  team: true
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+SaidTahsinDane"}
     - {name: "twitter", link: "https://twitter.com/tasomaniac"}
@@ -67,7 +67,7 @@
   surname: "Kaya"
   title: "Software Developer"
   thumbnailUrl: HalilKaya.jpg
-  subTeam: true
+  team: true
   social:
     - {name: "google-plus", link: "https://plus.google.com/+HalilKaya"}
     - {name: "twitter", link: "https://twitter.com/halilkaya"}
@@ -79,7 +79,7 @@
   surname: "Deniz"
   title: "Mobile Software Developer"
   thumbnailUrl: BusraDeniz.jpg
-  subTeam: true
+  team: true
   social:
     - {name: "google-plus", link: "https://plus.google.com/107161766252148547668"}
     - {name: "twitter", link: "https://twitter.com/busradeniz"}
@@ -90,7 +90,7 @@
   surname: "Bilgin"
   title: "Software Developer"
   thumbnailUrl: InciBilgin.jpg
-  subTeam: true
+  team: true
   social:
     - {name: "google-plus", link: "https://plus.google.com/111544553321439278692"}
     - {name: "twitter", link: "https://twitter.com/bilinginci"}
