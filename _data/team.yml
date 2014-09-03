@@ -1,60 +1,96 @@
 - 
   id: 0
-  name: "Vitaliy"
-  surname: "Zasadnyy"
-  title: "Sponsors and Speakers Manager"
-  thumbnailUrl: VitaliyZasadnyy.jpg
+  name: "Murat"
+  surname: "Yener"
+  title: "Team Lead"
+  thumbnailUrl: MuratYener.jpg
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
-    - {name: "twitter", link: "https://twitter.com/zasadnyy"}
-    - {name: "github", link: "https://github.com/zasadnyy"}
-    - {name: "site", link: "http://zasadnyy.com/"}
+    - {name: "google-plus", link: "https://google.com/+MuratYener"}
+    - {name: "twitter", link: "https://twitter.com/yenerm"}
+    - {name: "github", link: "https://github.com/yenerm"}
+    - {name: "site", link: "http://www.devchronicles.com/"}
 - 
   id: 1
-  name: "Oleh"
-  surname: "Zasadnyy"
-  title: "Designer and Web Developer"
-  thumbnailUrl: OlehZasadnyy.jpg
+  name: "Nilay"
+  surname: "Yener"
+  title: "Analyst, Product Owner"
+  thumbnailUrl: NilayYener.jpg
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+OlehZasadnyy"}
-    - {name: "github", link: "https://github.com/ozasadnyy"}
+    - {name: "google-plus", link: "https://google.com/+NilayCoşkunYener"}
+    - {name: "twitter", link: "https://github.com/nlycskn"}
 - 
   id: 2
-  name: "Ostap"
-  surname: "Andrusiv"
-  title: "Sponsors and Speakers Manager"
-  thumbnailUrl: OstapAndrusiv.jpg
+  name: "Salim"
+  surname: "Kayabasi"
+  title: "Software Developer"
+  thumbnailUrl: SalimKayabasi.jpg
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+OstapAndrusiv"}
-    - {name: "twitter", link: "https://twitter.com/p1f"}
-    - {name: "site", link: "http://andrusiv.com/"}
+    - {name: "google-plus", link: "https://google.com/+SalimKAYABAŞI"}
+    - {name: "twitter", link: "https://twitter.com/salimkayabasi"}
+    - {name: "github", link: "http://github.com/salimkayabasi"}
+    - {name: "site", link: "http://salimkayabasi.com"}
 - 
   id: 4
-  name: "Dmytro"
-  surname: "Danylyk"
-  title: "Android Program Committee"
-  thumbnailUrl: DmytroDanylyk.jpg
+  name: "Hasan"
+  surname: "Keklik"
+  title: "Android Developer"
+  thumbnailUrl: HasanKeklik.jpg
   subTeam: true
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    - {name: "github", link: "https://github.com/dmytrodanylyk"}
+    - {name: "google-plus", link: "https://plus.google.com/+HasanKeklik"}
+    - {name: "twitter", link: "https://twitter.com/keklikhasan"}
+    - {name: "github", link: "https://github.com/keklikhasan"}
 - 
-  id: 7
-  name: "Valentyn"
-  surname: "Shybanov"
-  title: "Web and Cloud Program Committee"
-  thumbnailUrl: ValentynShybanov.jpg
+  id: 5
+  name: "Said Tahsin"
+  surname: "Dane"
+  title: "Android Developer"
+  thumbnailUrl: SaidTahsinDane.jpg
   subTeam: true
   social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+    - {name: "google-plus", link: "https://plus.google.com/+SaidTahsinDane"}
+    - {name: "twitter", link: "https://twitter.com/tasomaniac"}
+    - {name: "github", link: "https://github.com/tasomaniac"}
+    - {name: "site", link: "http://www.tasomaniac.com/"}
+-
+  id: 6
+  name: "Halil"
+  surname: "Kaya"
+  title: "Software Developer"
+  thumbnailUrl: HalilKaya.jpg
+  subTeam: true
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+HalilKaya"}
+    - {name: "twitter", link: "https://twitter.com/halilkaya"}
+    - {name: "github", link: "https://github.com/halilkaya"}
+    - {name: "site", link: "http://www.halilkaya.net/"}
+-
+  id: 7
+  name: "Busra"
+  surname: "Deniz"
+  title: "Mobile Software Developer"
+  thumbnailUrl: BusraDeniz.jpg
+  subTeam: true
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/107161766252148547668"}
+    - {name: "twitter", link: "https://twitter.com/busradeniz"}
+    - {name: "site", link: "http://www.busradeniz.com/"}
+-
+  id: 8
+  name: "Inci"
+  surname: "Bilgin"
+  title: "Software Developer"
+  thumbnailUrl: InciBilgin.jpg
+  subTeam: true
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/111544553321439278692"}
+    - {name: "twitter", link: "https://twitter.com/bilinginci"}
