@@ -122,10 +122,11 @@ ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lu
 ticketsOffers:
  -
   name: "Free Ticket"
-  price: "0"
-  priceCurrency: "TL"
+  ticketsNumber: "Unlimited"
   buyButtonLink: "http://devfesttr14.eventbrite.cm"
   buyButtonText: "Register"
+  validFrom: "2014-12-06T10:00"
+  validThrough: "2014-12-06T23:59"
 
 # Footer
 socialLinks:
