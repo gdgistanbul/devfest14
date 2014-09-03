@@ -123,7 +123,7 @@ ticketsOffers:
  -
   name: "Free Ticket"
   ticketsNumber: "Unlimited"
-  buyButtonLink: "http://devfesttr14.eventbrite.cm"
+  buyButtonLink: "http://devfesttr14.eventbrite.com"
   buyButtonText: "Register"
   validFrom: "2014-12-06T10:00"
   validThrough: "2014-12-06T23:59"
@@ -131,7 +131,7 @@ ticketsOffers:
 # Footer
 socialLinks:
  - {link: "https://plus.google.com/+Gdgistanbul", icon: "google-plus"}
- - {link: "https://twitter.com/intent/user?screen_name=GDGIstanbul", icon: "twitter"}
+ - {link: "https://twitter.com/GDGIstanbul", icon: "twitter"}
  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
