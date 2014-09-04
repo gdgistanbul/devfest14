@@ -41,8 +41,8 @@ navigationLinks:
  - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/team/", text: "Team"}
  - {permalink: "/logistics/", text: "Logistics"}
- - {permalink: "http://2013.devfesttr.com", text: "DevFest'13"}
- - {permalink: "http://wtm14.devfesttr.com", text: "DevFest Women'14"}
+ - {link: "http://2013.devfesttr.com", text: "DevFest'13"}
+ - {link: "http://wtm14.devfesttr.com", text: "DevFest Women'14"}
 bottomNavigationLinks:
  - {link: "http://goo.gl/6du2Z4", text: "Become a speaker"}
 rightNavigationButtons:
@@ -70,7 +70,7 @@ statisticBlockImage: "statistic.jpg"
 statisticBlock:
  - {count: "1600", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
  - {count: "24", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
- - {count: "42", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
+ - {count: "42", specialCharacter: "", info: "speakers", detail: "The answer to life, the universe and everything"}
  - {count: "5", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
 
 # Latest News Block
