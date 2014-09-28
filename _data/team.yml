@@ -23,7 +23,7 @@
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
     - {name: "google-plus", link: "https://google.com/+NilayCoşkunYener"}
-    - {name: "twitter", link: "https://github.com/nlycskn"}
+    - {name: "twitter", link: "https://twitter.com/nlycskn"}
 - 
   id: 2
   name: "Salim"
@@ -60,7 +60,7 @@
     - {name: "google-plus", link: "https://plus.google.com/+SaidTahsinDane"}
     - {name: "twitter", link: "https://twitter.com/tasomaniac"}
     - {name: "github", link: "https://github.com/tasomaniac"}
-    - {name: "site", link: "http://www.tasomaniac.com/"}
+    - {name: "site", link: "http://www.tasomaniac.com"}
 -
   id: 6
   name: "Halil"
@@ -72,7 +72,7 @@
     - {name: "google-plus", link: "https://plus.google.com/+HalilKaya"}
     - {name: "twitter", link: "https://twitter.com/halilkaya"}
     - {name: "github", link: "https://github.com/halilkaya"}
-    - {name: "site", link: "http://www.halilkaya.net/"}
+    - {name: "site", link: "http://www.halilkaya.net"}
 -
   id: 7
   name: "Busra"
@@ -83,7 +83,7 @@
   social:
     - {name: "google-plus", link: "https://plus.google.com/107161766252148547668"}
     - {name: "twitter", link: "https://twitter.com/busradeniz"}
-    - {name: "site", link: "http://www.busradeniz.com/"}
+    - {name: "site", link: "http://www.busradeniz.com"}
 -
   id: 8
   name: "Inci"

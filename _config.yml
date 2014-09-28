@@ -62,9 +62,9 @@ heroButtons:
 # About Block
 aboutTitle: "About GDG DevFest"
 aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lot's of fun!" }
+ - {title: "Conference", image: "conference.jpg", text: "The biggest Google related developer event in Istanbul carefully crafted for you by GDG community! Awesome speakers and lot's of fun! This time, right in the heart of Istanbul!" }
  - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
- - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day free-style hackaton! Want some real teambuilding on friday? Grab your team and join our hackathon!" }
+ - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day free-style hackaton! Want some real teambuilding on friday? Grab your team and join our hackaton!" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
@@ -96,15 +96,6 @@ eventEndTime: "2014-12-06T20:00"
 eventPlaceCoordinates: "41.02385, 29.031556"
 mapCenterCoordinates: "41.02385, 29.031556"
 mapMobileCenterCoordinates: "41.02385, 29.031556"
-
-# Venue Block
-venueBlockTitle: "Venue"
-venueBigImage: "venue_0.jpg"
-venueSmallImage1: "venue_1.jpg"
-venueSmallImage2: "venue_2.jpg"
-venueSmallImage3: "venue_3.jpg"
-venueTitle: "Kinopalace Cinema"
-venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
@@ -164,8 +155,8 @@ findWayWalking: "WALKING"
 findWayBicycling: "BICYCLING"
 findWayTransit: "TRANSIT"
 findWayFindFlight: "Find Flight"
-logisticsMapCenterCoordinates: "49.056728, 3.117289"
-logisticsMapMobileCenterCoordinates: "48.335365, 23.711648"
+logisticsMapCenterCoordinates: "41.02385,29.031556"
+logisticsMapMobileCenterCoordinates: "41.02385,29.031556"
 
 # Logistics Direction Details Block
 directionDetailsImage: "direction-details.jpg"
