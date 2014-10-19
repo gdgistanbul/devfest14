@@ -57,7 +57,7 @@ typeoutTextValues: '"", "Conference", "Workshops", "Hackathon", "Istanbul"'
 typeoutFallback: "Season"
 heroButtons:
  - {link: "http://goo.gl/6du2Z4", text: "Become a speaker"}
- - {permalink: "/#tickets", text: "Buy tickets"}
+ - {permalink: "/#tickets", text: "Register to event"}
 
 # About Block
 aboutTitle: "About GDG DevFest"
