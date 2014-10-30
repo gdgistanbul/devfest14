@@ -2,7 +2,7 @@
   group: "Festival sponsor"
   elements: 
     - {width: "300px",name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/",imageUrl: "google.svg"}
-    - {width: "300px",name: "Turkcell", description: "Turkcell & Turkcell Gelecegi Yazanlar", link: "http://www.turkcell.com.tr", imageUrl: "turkcell.jpg"}
+    - {width: "300px",name: "Turkcell", description: "Turkcell & Turkcell Gelecegi Yazanlar", link: "http://www.turkcell.com.tr", imageUrl: "turkcell_white.jpg"}
 - group: "Diamond sponsor"
   elements:
     - {name: "FIT", imageUrl: "fit.png", description: "FIT Solutions | SAP Partner | e-Dönüşüm | e-Fatura | e-Defter | e-imza | e-Arşiv", link: "http://www.fitsolutions.com.tr"}
