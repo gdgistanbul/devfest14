@@ -1,7 +1,7 @@
 - 
   group: "Festival sponsor"
   elements: 
-    - {width: "150px",name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/",imageUrl: "google.svg"}
+    - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/",imageUrl: "google.svg"}
     - {width: "200px",name: "Turkcell", description: "Turkcell & Turkcell Gelecegi Yazanlar", link: "http://www.turkcell.com.tr", imageUrl: "turkcell_white_bg.jpg"}
 - group: "Diamond sponsor"
   elements:
