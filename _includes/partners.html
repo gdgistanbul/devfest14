@@ -8,8 +8,8 @@
             <ul class="list-inline">
                 {% for element in partner.elements %}
                 <li>
-                    <a href="{{ element.link }}" target="_blank" {% if element.width != null %}style="display:block; width: {{ element.width }};"{% endif %}>
-                        <img src="{{ site.baseurl }}/img/partners/{{ element.imageUrl }}" title="{{ element.description }}" alt="{{ element.name }}">
+                    <a href="{{ element.link }}" target="_blank">
+                        <img {% if element.width != null %}style="width: {{ element.width }};"{% endif %} src="{{ site.baseurl }}/img/partners/{{ element.imageUrl }}" title="{{ element.description }}" alt="{{ element.name }}">
                     </a>
                 </li>
                 {% endfor %}
@@ -22,8 +22,8 @@
             <ul class="list-inline">
                 {% for element in organizer.elements %}
                 <li>
-                    <a href="{{ element.link }}" target="_blank" {% if element.width != null %}style="display:block; width: {{ element.width }};"{% endif %}>
-                        <img src="{{ site.baseurl }}/img/organizers/{{ element.imageUrl }}" title="{{ element.description }}" alt="{{ element.name }}">
+                    <a href="{{ element.link }}" target="_blank">
+                        <img {% if element.width != null %}style="width: {{ element.width }};"{% endif %} src="{{ site.baseurl }}/img/organizers/{{ element.imageUrl }}" title="{{ element.description }}" alt="{{ element.name }}">
                     </a>
                 </li>
                 {% endfor %}
