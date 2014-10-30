@@ -47,7 +47,6 @@ navigationLinks:
 bottomNavigationLinks:
  - {link: "http://goo.gl/6du2Z4", text: "Become a speaker"}
 rightNavigationButtons:
- - {link: "http://goo.gl/6du2Z4", text: "Become a speaker"}
  - {permalink: "/assets/devfest2014.pdf", text: "Become a sponsor"}
 
 # Hero Block
