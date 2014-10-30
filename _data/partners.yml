@@ -1,8 +1,8 @@
 - 
   group: "Festival Sponsor"
   elements: 
-    - {width:"210px",name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/",imageUrl: "google.svg"}
-    - {width:"210px",name: "Turkcell", description: "Turkcell & Turkcell Gelecegi Yazanlar", link: "http://www.turkcell.com.tr", imageUrl: "turkcell.jpg"}
+    - {width: "300px",name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/",imageUrl: "google.svg"}
+    - {width: "300px",name: "Turkcell", description: "Turkcell & Turkcell Gelecegi Yazanlar", link: "http://www.turkcell.com.tr", imageUrl: "turkcell.jpg"}
 - 
   group: "With support of"
   elements: 
@@ -12,5 +12,5 @@
 -
   group: "Information partners"
   elements: 
-    - {name: "TeknoSeyir", description: "TeknoSeyir", link: "http://www.teknoseyir.com", imageUrl: "teknoseyir.jpg"}
+    - {name: "TeknoSeyir", description: "TeknoSeyir", link: "http://www.teknoseyir.com", imageUrl: "teknoseyir.png"}
     - {name: "Indir", description: "Indir", link: "http://www.indir.com", imageUrl: "indir.png"}
