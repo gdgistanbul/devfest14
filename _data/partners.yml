@@ -15,5 +15,5 @@
 -
   group: "Publicity partners"
   elements: 
-    - {name: "TeknoSeyir", description: "TeknoSeyir", link: "http://www.teknoseyir.com", imageUrl: "teknoseyir.png"}
+    - {name: "TeknoSeyir", description: "TeknoSeyir", link: "http://www.teknoseyir.com", imageUrl: "teknoseyir.jpg"}
     - {name: "Indir", description: "Indir", link: "http://www.indir.com", imageUrl: "indir.png"}
