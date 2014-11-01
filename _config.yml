@@ -42,6 +42,7 @@ navigationLinks:
  - {permalink: "/team/", text: "Team"}
  - {permalink: "/logistics/", text: "Logistics"}
  - {permalink: "/#partners", text: "Sponsors"}
+ - {permalink: "/organizers", text: "Organizers"}
  - {link: "http://2013.devfesttr.com", text: "DevFest'13"}
  - {link: "http://wtm14.devfesttr.com", text: "DevFest Women'14"}
 bottomNavigationLinks:
