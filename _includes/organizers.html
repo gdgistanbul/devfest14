@@ -9,7 +9,7 @@
                 {% for element in organizer.elements %}
                 <li>
                     <a href="{{ element.link }}" target="_blank">
-                        <img {% if element.width != null %}style="width: {{ element.width }};"{% endif %} src="{{ site.baseurl }}/img/organizers/{{ element.imageUrl }}" title="{{ element.description }}" alt="{{ element.name }}">
+                        <img {% if element.width != null %}style="width: {{ element.width }};max-width {{ element.width }}"{% endif %} src="{{ site.baseurl }}/img/organizers/{{ element.imageUrl }}" title="{{ element.description }}" alt="{{ element.name }}">
                     </a>
                 </li>
                 {% endfor %}
