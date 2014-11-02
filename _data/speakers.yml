@@ -23,3 +23,14 @@
     - {name: "google-plus", link: "https://plus.google.com/+MarkStephens"}
     - {name: "twitter", link: "https://twitter.com/javaPDF"}
     - {name: "facebook", link: "https://www.facebook.com/idrsolutions"}
+
+-
+  id: 3
+  name: "Çağatay"
+  surname: "Çivici"
+  company: "PrimeTek"
+  title: "Founder"
+  bio: "Cagatay Civici is a member of JavaServer Faces Expert Group within JCP, the founder and project lead of popular PrimeFaces Component Suite and PMC member of open source JSF implementation Apache MyFaces. He’s a recognized speaker in international conferences such as JavaOne, SpringOne, JAX, Jazoon, Confess, JSFSummit and many local events such as JUGs. Cagatay is also an author and technical reviewer of couple of books regarding web application development with Java EE."
+  thumbnailUrl: MarkStephens.jpg
+  social:
+    - {name: "twitter", link: "https://twitter.com/cagataycivici"}
