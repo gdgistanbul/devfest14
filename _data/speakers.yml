@@ -6,8 +6,20 @@
   title: "Principal Frontend Developer"
   bio: "In the last 5 years of his past 15 years programming experience, He tried to interest more with front-end technologies and JavaScript. He is very pleased with the developing apps by front-end technologies."
   thumbnailUrl: MuratCorlu.jpg
-  rockstar: false
   social:
     - {name: "google-plus", link: "https://plus.google.com/+MuratÇorlu/"}
     - {name: "twitter", link: "https://twitter.com/muratcorlu"}
     - {name: "github", link: "https://github.com/muratcorlu"}
+
+-
+  id: 2
+  name: "Mark"
+  surname: "Stephens"
+  company: "IDRsolutions"
+  title: "Entrepreneur"
+  bio: "Mark Stephens has been working with Java since 1997. He is an Entrepreneur and software developer who setup IDRsolutions in 1999. IDRsolutions have a Java PDF library and a PDF to HTML5/SVG converter which are used by clients worldwide. He has an MSC degree in Computer Science and an MA in Mediaeval History and has a detailed knowledge of Byzantine and Ottoman History. So DevFest is his dream conference as he gets to combine both coding and mediaeval castles/cathedral and cisterns."
+  thumbnailUrl: MarkStephens.jpg
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+MarkStephens"}
+    - {name: "twitter", link: "https://twitter.com/javaPDF"}
+    - {name: "facebook", link: "https://www.facebook.com/idrsolutions"}
