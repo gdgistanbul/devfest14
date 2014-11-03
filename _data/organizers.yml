@@ -3,6 +3,10 @@
   elements: 
     - {width: "500px", name: "GDG Istanbul", description: "GDG Istanbul - Open and volunteer geek community", link: "http://www.gdgistanbul.com", imageUrl: "gdgistanbul.png"}
 -
+  group: "Co-organizers"
+  elements:
+    - {width: "300px", name: "GDG Eskisehir", description: "GDG Eskisehir", link: "http://devfest.gdgeskisehir.org", imageUrl: "gdgeskisehir.png"}
+-
   group: "Universities"
   elements:
     - {name: "Anadolu BK", description: "Anadolu Üniversitesi Bilgisayar Kulübü", link: "http://bk.anadolu.edu.tr", imageUrl: "anadolubk.png"}
