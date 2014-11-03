@@ -13,3 +13,20 @@
   elements:
     - {name: "Anadolu BK", description: "Anadolu Üniversitesi Bilgisayar Kulübü", link: "http://bk.anadolu.edu.tr", imageUrl: "anadolubk.png"}
     - {name: "TUBIT", description: "Trakya Üniversitesi - Bilgisayar ve İnovasyon Topluluğu", link: "http://kycubyo.trakya.edu.tr", imageUrl: "tubit.png"}
+-
+  group: "Bloggers"
+  elements:
+    - {name: "Teakolik", description: "Teakolik", link: "http://www.teakolik.com", imageUrl: "teakolik.png"}
+    - {name: "Sozyal.co", description: "Sozyal.co", link: "http://www.sozyal.co", imageUrl: "sozyal.png"}
+    - {name: "Sosyal Medya Haber", description: "Sosyal Medya Haber", link: "http://www.sosyalmedyahaber.com", imageUrl: "sosyalmedyahaber.png"}
+    - {name: "Sibel Hoş", description: "Sibel Hoş", link: "http://sibelhos.com", imageUrl: "sibelhos.png"}
+    - {name: "Sezai Yldırım", description: "Sezai Yldırım", link: "http://sezaiyildirim.com", imageUrl: "sezaiyildirim.png"}
+    - {name: "WeBeyn", description: "WeBeyn", link: "http://www.webeyn.com", imageUrl: "webeyn.png"}
+    - {name: "Protechman", description: "Protechman", link: "http://www.protechman.net", imageUrl: "protechman.png"}
+    - {name: "İsmail Emrah DemirAyak", description: "İsmail Emrah DemirAyak", link: "http://demirayak.org", imageUrl: "demirayak.png"}
+    - {name: "Tekno Safari", description: "Tekno Safari", link: "http://teknosafari.com", imageUrl: "teknosafari.png"}
+    - {name: "Evren'den al haberi", description: "Evren'den al haberi", link: "http://www.evrendenalhaberi.com", imageUrl: "evrendenalhaberi.png"}
+    - {name: "Fundalina", description: "Fundalina", link: "http://www.fundalina.com", imageUrl: "fundalina.png"}
+    - {name: "Haydar Özkömürcü", description: "Haydar Özkömürcü", link: "http://hozkomurcu.com", imageUrl: "hozkomurcu.png", width: "90px"}
+    - {name: "inceleme.co", description: "inceleme.co", link: "http://inceleme.co", imageUrl: "inceleme.png"}
+    - {name: "Serkan Cura", description: "Serkan Cura", link: "http://www.serkancura.com", imageUrl: "serkancura.png"}
