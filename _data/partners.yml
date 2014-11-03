@@ -13,6 +13,10 @@
     - {name: "Vaadin", description: "Vaadin", link: "http://www.vaadin.com", imageUrl: "vaadin.jpg"}
     - {name: "IDR Solutions", description: "PDF to HTML5,  Java PDF Viewer,  Java PDF Library", link: "https://www.idrsolutions.com", imageUrl: "idr.jpg"}
 -
+  group: "Entertainment Sponsor"
+  elements:
+    - {name: "Codemodeon", description: "Codemodeon", link: "http://codemodeon.com", imageUrl: "codemodeon.png"}
+-
   group: "Publicity partners"
   elements: 
     - {width: "100px",name: "TeknoSeyir", description: "TeknoSeyir", link: "http://www.teknoseyir.com", imageUrl: "teknoseyir.jpg"}
