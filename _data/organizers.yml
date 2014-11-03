@@ -18,6 +18,7 @@
   group: "Bloggers"
   elements:
     - {name: "Ottodroid", description: "Ottodroid", link: "http://ottodroid.net", imageUrl: "ottodroid.png", width: "80px" }
+    - {name: "Yusuf Çakmak", description: "Yusuf Çakmak", link: "http://blog.yusufcakmak.com/etkinlikler/devfest-istanbul-2014.html", imageUrl: "yusuf.png"}
     - {name: "Teakolik", description: "Teakolik", link: "http://www.teakolik.com", imageUrl: "teakolik.png"}
     - {name: "Sozyal.co", description: "Sozyal.co", link: "http://www.sozyal.co", imageUrl: "sozyal.png"}
     - {name: "Sosyal Medya Haber", description: "Sosyal Medya Haber", link: "http://www.sosyalmedyahaber.com", imageUrl: "sosyalmedyahaber.png"}
