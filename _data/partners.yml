@@ -12,7 +12,7 @@
     - {name: "Eteration", description: "Eteration", link: "http://www.eteration.com", imageUrl: "eteration.png"}
     - {name: "Vaadin", description: "Vaadin", link: "http://www.vaadin.com", imageUrl: "vaadin.jpg"}
     - {name: "IDR Solutions", description: "PDF to HTML5,  Java PDF Viewer,  Java PDF Library", link: "https://www.idrsolutions.com", imageUrl: "idr.jpg"}
-    - {name: "Netbeans", description: "Netbeans", link: "https://netbeans.org/", imageUrl: "netbeans.png"}
+    - {name: "NetBeans", description: "NetBeans", link: "https://netbeans.org/", imageUrl: "netbeans.png"}
     - {name: "EPIK", description: "UK Youth Minecraft geek network", link: "https://twitter.com/EPIKhub", imageUrl: "epik.png", width: "80px"}
 -
   group: "Entertainment Sponsor"
