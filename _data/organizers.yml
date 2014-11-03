@@ -7,6 +7,7 @@
   elements:
     - {width: "300px", name: "GDG Eskisehir", description: "GDG Eskisehir", link: "http://2014.devfestudent.com", imageUrl: "gdgeskisehir.png"}
     - {width: "300px", name: "GDG Ankara", description: "GDG Ankara", link: "http://www.gdgankara.org", imageUrl: "gdgankara.png"}
+    - {width: "300px", name: "GDG Duzce", description: "GDG Duzce", link: "http://gdgduzce.duzce.edu.tr", imageUrl: "gdgduzce.png"}
 -
   group: "Universities"
   elements:
