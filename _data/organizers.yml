@@ -6,3 +6,4 @@
   group: "Universities"
   elements:
     - {name: "Anadolu BK", description: "Anadolu Üniversitesi Bilgisayar Kulübü", link: "http://bk.anadolu.edu.tr", imageUrl: "anadolubk.png"}
+    - {name: "TUBIT", description: "Trakya Üniversitesi - Bilgisayar ve İnovasyon Topluluğu", link: "http://devfesttr.com", imageUrl: "tubit.png"}
