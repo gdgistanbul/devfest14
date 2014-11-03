@@ -47,3 +47,15 @@
     - {name: "google-plus", link: "https://plus.google.com/+AliDerbane"}
     - {name: "github", link: "https://github.com/aderbane"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/derbane"}
+
+-
+  id: 5
+  name: "Altan"
+  surname: "Yilmaz"
+  company: "Yemeksepeti.com"
+  title: "Frontend Architect"
+  bio: "Building and implementing large scaled web & hybrid mobile JavaScript applications."
+  thumbnailUrl: AltanYilmaz.jpg
+  social:
+    - {name: "twitter", link: "https://twitter.com/allthein"}
+    - {name: "github", link: "https://github.com/allthein"}
