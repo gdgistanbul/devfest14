@@ -5,7 +5,7 @@
 -
   group: "Co-organizers"
   elements:
-    - {width: "300px", name: "GDG Eskisehir", description: "GDG Eskisehir", link: "http://devfest.gdgeskisehir.org", imageUrl: "gdgeskisehir.png"}
+    - {width: "300px", name: "GDG Eskisehir", description: "GDG Eskisehir", link: "http://2014.devfestudent.com", imageUrl: "gdgeskisehir.png"}
 -
   group: "Universities"
   elements:
