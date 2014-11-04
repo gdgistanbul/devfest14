@@ -9,6 +9,7 @@
     - {width: "300px", name: "GDG Ankara", description: "GDG Ankara", link: "http://www.gdgankara.org", imageUrl: "gdgankara.png"}
     - {width: "300px", name: "GDG Duzce", description: "GDG Duzce", link: "http://gdgduzce.duzce.edu.tr", imageUrl: "gdgduzce.png"}
     - {width: "300px", name: "GDG Konya", description: "GDG Konya", link: "http://www.gdgkonya.org/", imageUrl: "gdgkonya.png"}
+    - {width: "300px", name: "GDG Kütahya", description: "GDG Kütahya", link: "http://googledevelopergroupkutahya.blogspot.com.tr", imageUrl: "gdgkutahya.png"}
 -
   group: "Universities"
   elements:
