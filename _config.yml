@@ -41,6 +41,7 @@ navigationLinks:
  - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/team/", text: "Team"}
  - {permalink: "/logistics/", text: "Logistics"}
+ - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/#partners", text: "Sponsors"}
  - {permalink: "/organizers", text: "Organizers"}
  - {link: "http://2013.devfesttr.com", text: "DevFest'13"}

@@ -25,15 +25,18 @@
     - {name: "facebook", link: "https://www.facebook.com/idrsolutions"}
 
 -
-  id: 3
-  name: "Cagatay"
-  surname: "Civici"
-  company: "PrimeTek"
-  title: "Founder"
-  bio: "Cagatay Civici is a member of JavaServer Faces Expert Group within JCP, the founder and project lead of popular PrimeFaces Component Suite and PMC member of open source JSF implementation Apache MyFaces. He’s a recognized speaker in international conferences such as JavaOne, SpringOne, JAX, Jazoon, Confess, JSFSummit and many local events such as JUGs. Cagatay is also an author and technical reviewer of couple of books regarding web application development with Java EE."
-  thumbnailUrl: CagatayCivici.png
-  social:
-    - {name: "twitter", link: "https://twitter.com/cagataycivici"}
+ id: 3
+ name: "Wiebe"
+ surname: "Elsinga"
+ company: "ItudeMobile / GDG Dutch Android User Group"
+ title: "Mobile Technical Lead"
+ bio: "Co-Founder/Organizer Google Developer Group Dutch Android User Group and Mobile Technical Lead at ItudeMobile. Basically a EntrepreNerd. Mainly focused on the design and development of mobile applications. Passionate about Android, UX and innovation. Also a public speaker at technical conferences worldwide and has been nominated to apply for the Google Developer Expert Program."
+ thumbnailUrl: WiebeElsinga.png
+ social:
+   - {name: "google-plus", link: "http://google.com/+WiebeElsinga"}
+   - {name: "twitter", link: "http://twitter.com/welsinga"}
+   - {name: "github", link: "http://github.com/welsinga"}
+   - {name: "site", link: "http://wiebe-elsinga.com/blog"}
 
 -
   id: 4
@@ -50,6 +53,17 @@
 
 -
   id: 5
+  name: "Cagatay"
+  surname: "Civici"
+  company: "PrimeTek"
+  title: "Founder"
+  bio: "Cagatay Civici is a member of JavaServer Faces Expert Group within JCP, the founder and project lead of popular PrimeFaces Component Suite and PMC member of open source JSF implementation Apache MyFaces. He’s a recognized speaker in international conferences such as JavaOne, SpringOne, JAX, Jazoon, Confess, JSFSummit and many local events such as JUGs. Cagatay is also an author and technical reviewer of couple of books regarding web application development with Java EE."
+  thumbnailUrl: CagatayCivici.png
+  social:
+    - {name: "twitter", link: "https://twitter.com/cagataycivici"}
+
+-
+  id: 6
   name: "Altan"
   surname: "Yilmaz"
   company: "Yemeksepeti.com"
@@ -61,7 +75,7 @@
     - {name: "github", link: "https://github.com/allthein"}
 
 -
-  id: 6
+  id: 7
   name: "Hasan"
   surname: "Hosgel"
   company: "ImmobilienScout24"
@@ -74,7 +88,7 @@
    - {name: "github", link: "https://github.com/alosdev"}
 
 -
- id: 7
+ id: 8
  name: "Florent"
  surname: "Biville"
  company: "VIDAL / part-time freelance"
@@ -86,3 +100,58 @@
   - {name: "twitter", link: "https://twitter.com/fbiville"}
   - {name: "github", link: "https://github.com/fbiville"}
   - {name: "linkedin", link: "https://www.linkedin.com/in/florentbiville"}
+
+-
+ id: 9
+ name: "Ahmet"
+ surname: "Alpat"
+ company: "Katı Hal"
+ title: "Founder"
+ bio: "He is an embedded systems, hardware design engineer and founder of Katı Hal. He is cofounder of Arduino Turkiye and board member of Istanbul Hackerspace. He has a blog at ahmetalpat.com"
+ thumbnailUrl: AhmetAlpat.jpg
+ social:
+   - {name: "likedin", link: "http://linkedin.com/in/ahmetalpat"}
+   - {name: "twitter", link: "http://twitter.com/ahmetalpat"}
+   - {name: "facebook", link: "http://facebook.com/ahmetalpat"}
+   - {name: "site", link: "http://ahmetalpat.com"}
+
+-
+ id: 10
+ name: "Emrullah"
+ surname: "Lüleci"
+ company: "Arkony"
+ title: "Software Engineer"
+ bio: "Emrullah Lüleci is a full stack software engineer who is professionalized on Android Development. He loves UI design and implementations, blogging and open sourcing. He is the creator of the Android FlatUI library and some other libraries."
+ thumbnailUrl: EmrullahLuleci.jpg
+ social:
+   - {name: "google-plus", link: "https://plus.google.com/+emrullahluleci"}
+   - {name: "twitter", link: "https://twitter.com/emrullahluleci"}
+   - {name: "github", link: "https://github.com/eluleci"}
+
+-
+ id: 11
+ name: "Pietro A."
+ surname: "Rossi"
+ company: "Mosaicoon S.p.A"
+ title: "Systems Engineer"
+ bio: "Programmer since 2000, starting with QBasic and most recently Android development and learning C, Assembler, C++, HTML, PHP and Java along the way. Working in a startup Mosaicoon S.P.A., my strength is Android programming and problem solving. I've been an invited speaker at Rome Codemotion 2013, Madrid Codemotion 2013, Droidcon Italy and other international events. I also been a speaker in other national events such as Linux, Day Linux Meeting, Java Day in Palermo and Ragusa."
+ thumbnailUrl: PietroAlbertoRossi.jpg
+ social:
+   - {name: "google-plus", link: "https://www.google.com/+PietroAlbertoRossi"}
+   - {name: "twitter", link: "https://twitter.com/sprik89"}
+   - {name: "linkedin", link: "http://it.linkedin.com/in/pietroalbertorossi"}
+   - {name: "facebook", link: "https://www.facebook.com/sprikmeister"}
+
+-
+ id: 12
+ name: "Armağan"
+ surname: "Amcalar"
+ company: "Startup Kitchen"
+ title: "Chief Software Architect"
+ bio: "Incubating startups with Startup Kitchen for 3 years, Armagan is responsible for the technical quality of Startup Kitchen’s products. He builds everything with JavaScript—from high performant mobile apps to vastly scalable distributed cloud applications."
+ thumbnailUrl: ArmaganAmcalar.jpg
+ social:
+   - {name: "google-plus", link: "https://www.google.com/+PietroAlbertoRossi"}
+   - {name: "twitter", link: "https://twitter.com/sprik89"}
+   - {name: "linkedin", link: "http://it.linkedin.com/in/pietroalbertorossi"}
+   - {name: "facebook", link: "https://www.facebook.com/sprikmeister"}
