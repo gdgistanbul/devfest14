@@ -72,3 +72,17 @@
    - {name: "google-plus", link: "https://www.google.com/+HasanHosgel"}
    - {name: "twitter", link: "https://twitter.com/alosdev"}
    - {name: "github", link: "https://github.com/alosdev"}
+
+-
+ id: 7
+ name: "Florent"
+ surname: "Biville"
+ company: "VIDAL / part-time freelance"
+ title: "Lead developer @ Vidal / independent Neo4j consultant/trainer"
+ bio: "Passionate about well-crafted and simple software, Florent Biville strives for learning and improving his practice everyday. He enjoys learning many ways of doing one thing, creating/contributing to FOSS, computing science history and telling cheap jokes."
+ thumbnailUrl: FlorentBiville.png
+ social:
+  - {name: "google-plus", link: "https://plus.google.com/118349835803233673871/posts"}
+  - {name: "twitter", link: "https://twitter.com/fbiville"}
+  - {name: "github", link: "https://github.com/fbiville"}
+  - {name: "linkedin", link: "https://www.linkedin.com/in/florentbiville"}
