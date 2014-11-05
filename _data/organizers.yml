@@ -5,11 +5,12 @@
 -
   group: "Co-organizers"
   elements:
-    - {width: "300px", name: "GDG Eskisehir", description: "GDG Eskisehir", link: "http://2014.devfestudent.com", imageUrl: "gdgeskisehir.png"}
-    - {width: "300px", name: "GDG Ankara", description: "GDG Ankara", link: "http://www.gdgankara.org", imageUrl: "gdgankara.png"}
-    - {width: "300px", name: "GDG Duzce", description: "GDG Duzce", link: "http://gdgduzce.duzce.edu.tr", imageUrl: "gdgduzce.png"}
-    - {width: "300px", name: "GDG Konya", description: "GDG Konya", link: "http://www.gdgkonya.org/", imageUrl: "gdgkonya.png"}
-    - {width: "300px", name: "GDG Kütahya", description: "GDG Kütahya", link: "http://googledevelopergroupkutahya.blogspot.com.tr/", imageUrl: "gdgkutahya.jpg"}
+    - {name: "GDG Eskisehir", description: "GDG Eskisehir", link: "http://2014.devfestudent.com", imageUrl: "gdgeskisehir.png"}
+    - {name: "GDG Ankara", description: "GDG Ankara", link: "http://www.gdgankara.org", imageUrl: "gdgankara.png"}
+    - {name: "GDG Duzce", description: "GDG Duzce", link: "http://gdgduzce.duzce.edu.tr", imageUrl: "gdgduzce.png"}
+    - {name: "GDG Konya", description: "GDG Konya", link: "http://www.gdgkonya.org/", imageUrl: "gdgkonya.png"}
+    - {name: "GDG Kütahya", description: "GDG Kütahya", link: "http://googledevelopergroupkutahya.blogspot.com.tr/", imageUrl: "gdgkutahya.jpg"}
+    - {name: "Ankara JUG", description: "Ankara JUG", link: "http://www.ankarajug.org", imageUrl: "ankarajug.png"}
 -
   group: "Universities"
   elements:
