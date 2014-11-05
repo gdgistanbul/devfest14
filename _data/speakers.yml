@@ -151,7 +151,6 @@
  bio: "Incubating startups with Startup Kitchen for 3 years, Armagan is responsible for the technical quality of Startup Kitchen’s products. He builds everything with JavaScript—from high performant mobile apps to vastly scalable distributed cloud applications."
  thumbnailUrl: ArmaganAmcalar.jpg
  social:
-   - {name: "google-plus", link: "https://www.google.com/+PietroAlbertoRossi"}
-   - {name: "twitter", link: "https://twitter.com/sprik89"}
-   - {name: "linkedin", link: "http://it.linkedin.com/in/pietroalbertorossi"}
-   - {name: "facebook", link: "https://www.facebook.com/sprikmeister"}
+   - {name: "twitter", link: "https://twitter.com/aamcalar"}
+   - {name: "github", link: "http://github.com/dashersw/nginx-proxy"}
+   - {name: "site", link: "http://arm.ag"}
