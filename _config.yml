@@ -66,7 +66,7 @@ aboutTitle: "About GDG DevFest"
 aboutBlock:
  - {title: "Conference", image: "conference.jpg", text: "The biggest Google related developer event in Istanbul carefully crafted for you by GDG community! Awesome speakers and lot's of fun! This time, right in the heart of Istanbul!" }
  - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
- - {title: "Hackathon", image: "minecraft.png", text: "Register to Minecraft Hacking Workshop with your KID!" }
+ - {title: "Minecraft Workshop", image: "minecraft.png", text: "Register to Minecraft Hacking Workshop with your KID!" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
