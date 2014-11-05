@@ -72,6 +72,7 @@
   thumbnailUrl: GeertjanWielenga.png
   social:
     - {name: "twitter", link: "https://twitter.com/geertjanw"}
+    - {name: "site", link: "http://blogs.oracle.com/geertjan"}
 
 -
   id: 6
