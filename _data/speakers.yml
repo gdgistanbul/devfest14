@@ -63,6 +63,17 @@
     - {name: "twitter", link: "https://twitter.com/cagataycivici"}
 
 -
+  id: 13
+  name: "Geertjan"
+  surname: "Wielenga"
+  company: "Oracle"
+  title: "Principal Product Manager"
+  bio: "Geertjan Wielenga is a Principal Product Manager in the Oracle Developer Tools group living & working in Amsterdam. He is a Java technology enthusiast, evangelist, trainer, speaker, and writer. He blogs here daily. The focus of this blog is mostly on NetBeans (a development tool primarily for Java programmers), with an occasional reference to NetBeans, and sometimes diverging to topics relating to NetBeans. And then there are days when NetBeans is mentioned, just for a change."
+  thumbnailUrl: GeertjanWielenga.png
+  social:
+    - {name: "twitter", link: "https://twitter.com/geertjanw"}
+
+-
   id: 6
   name: "Altan"
   surname: "Yilmaz"
