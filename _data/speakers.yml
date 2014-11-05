@@ -152,5 +152,5 @@
  thumbnailUrl: ArmaganAmcalar.jpg
  social:
    - {name: "twitter", link: "https://twitter.com/aamcalar"}
-   - {name: "github", link: "http://github.com/dashersw/nginx-proxy"}
+   - {name: "github", link: "http://github.com/dashersw"}
    - {name: "site", link: "http://arm.ag"}
