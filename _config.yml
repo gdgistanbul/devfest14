@@ -31,7 +31,7 @@ socialImageSrcFacebook: "/img/seo/social_logo.png"
 
 
 # Documents
-c4pUrl: "http://goo.gl/6du2Z4"
+c4pUrl: "http://www.meetup.com/MineCraft-Istanbul/events/213563482/"
 c4sponsorsUrl: "/assets/devfest2014.pdf"
 
 
@@ -47,7 +47,7 @@ navigationLinks:
  - {link: "http://2013.devfesttr.com", text: "DevFest'13"}
  - {link: "http://wtm14.devfesttr.com", text: "DevFest Women'14"}
 bottomNavigationLinks:
- - {link: "http://goo.gl/6du2Z4", text: "Become a speaker"}
+ - {link: "http://www.meetup.com/MineCraft-Istanbul/events/213563482/", text: "Minecraft Workshop"}
 rightNavigationButtons:
  - {permalink: "/assets/devfest2014.pdf", text: "Become a sponsor"}
 
@@ -58,7 +58,7 @@ eventDate: "6 December, 2014"
 typeoutTextValues: '"", "Conference", "Workshops", "Hackathon", "Istanbul"'
 typeoutFallback: "Season"
 heroButtons:
- - {link: "http://goo.gl/6du2Z4", text: "Become a speaker"}
+ - {link: "http://www.meetup.com/MineCraft-Istanbul/events/213563482/", text: "Minecraft Workshop"}
  - {permalink: "/#tickets", text: "Register to event"}
 
 # About Block
@@ -66,7 +66,7 @@ aboutTitle: "About GDG DevFest"
 aboutBlock:
  - {title: "Conference", image: "conference.jpg", text: "The biggest Google related developer event in Istanbul carefully crafted for you by GDG community! Awesome speakers and lot's of fun! This time, right in the heart of Istanbul!" }
  - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
- - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day free-style hackaton! Want some real teambuilding on friday? Grab your team and join our hackaton!" }
+ - {title: "Hackathon", image: "minecraft.png", text: "Register to Minecraft Hacking Workshop with your KID!" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
@@ -112,11 +112,16 @@ partnersC4sponsorsButton: "Become a sponsor"
 
 # Tickets Block
 ticketsTitle: "Please Register"
-ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party."
 ticketsOffers:
  -
   name: "Free Ticket"
   buyButtonLink: "http://devfesttr14.eventbrite.com"
+  buyButtonText: "Register"
+  validFrom: "2014-12-06T10:00"
+  validThrough: "2014-12-06T23:59"
+ -
+  name: "Minecraft Hacking Workshop for KIDs"
+  buyButtonLink: "http://www.meetup.com/MineCraft-Istanbul/events/213563482/"
   buyButtonText: "Register"
   validFrom: "2014-12-06T10:00"
   validThrough: "2014-12-06T23:59"
@@ -173,7 +178,7 @@ hackathonTitle: "Hackathon"
 enableHackathon: false
 
 # Hackathon About Block
-aboutHackathonTitle: "Meet our themes"
+aboutHackathonTitle: "Minecraft Workshop"
 hackathonRows:
  - {title: "Android Wear", image: "hackathon-0.png", details: "The front doors will be locked because this is after hours, please park behind the building and come to the door nearest the parking lot.<br><br>Our last meeting showed that there was a lot of interest in Android Wear so we decided to put on an Android Wear Hackathon to see what you could come up with! We realize that this is pretty short notice so we hope you can help us spread the word! There will be pizza, prizes and a great group of geeks to spend the evening coding with! Even if you don't have an app idea come on in and lend a hand to someone else or maybe find inspiration once you're here!"}
  - {title: "Google Glass", image: "hackathon-1.png", details: "We love wearable computing especially Google Glass for which we want to gather the break up community in order to boost innovation.<br><br>Coding an app on Google Glass needs its Rockstar Dev : the team needs a fast learner with solid skills on Android. He knows his way around Android SDK, already checked the Glass Developement Kit (GDK) quick start guide allowing him to jump start developing an app for Glass.The Designer has the hard task to build the visual identity from the ground up, he has strong UX knowledge and a deep understanding of the new rules set by the Glass. His design skills give him the credibility to decide the most effective UI and the most compelling Glass experience."}

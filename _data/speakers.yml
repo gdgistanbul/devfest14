@@ -1,15 +1,14 @@
 -
-  id: 1
-  name: "Murat"
-  surname: "Çorlu"
-  company: "Sahibinden.com"
-  title: "Principal Frontend Developer"
-  bio: "In the last 5 years of his past 15 years programming experience, He tried to interest more with front-end technologies and JavaScript. He is very pleased with the developing apps by front-end technologies."
-  thumbnailUrl: MuratCorlu.jpg
+  id: 13
+  name: "Geertjan"
+  surname: "Wielenga"
+  company: "Oracle"
+  title: "Principal Product Manager"
+  bio: "Geertjan Wielenga is a Principal Product Manager in the Oracle Developer Tools group living & working in Amsterdam. He is a Java technology enthusiast, evangelist, trainer, speaker, and writer. He blogs here daily. The focus of this blog is mostly on NetBeans (a development tool primarily for Java programmers), with an occasional reference to NetBeans, and sometimes diverging to topics relating to NetBeans. And then there are days when NetBeans is mentioned, just for a change."
+  thumbnailUrl: GeertjanWielenga.png
   social:
-    - {name: "google-plus", link: "https://plus.google.com/+MuratÇorlu/"}
-    - {name: "twitter", link: "https://twitter.com/muratcorlu"}
-    - {name: "github", link: "https://github.com/muratcorlu"}
+    - {name: "twitter", link: "https://twitter.com/geertjanw"}
+    - {name: "site", link: "http://blogs.oracle.com/geertjan"}
 
 -
   id: 2
@@ -52,6 +51,18 @@
     - {name: "linkedin", link: "https://www.linkedin.com/in/derbane"}
 
 -
+ id: 15
+ name: "Nick"
+ surname: "Lindridge"
+ title: "Founder"
+ bio: "Founder of the ionCube brand with the mission to empower PHP developers and website owners with tools for software security, with awesome customer service."
+ thumbnailUrl: anonymous.png
+ social:
+   - {name: "twitter", link: "https://twitter.com/ioncube"}
+   - {name: "site", link: "http://ioncube.com"}
+   - {name: "linkedin", link: "https://www.linkedin.com/in/nicklindridge"}
+
+-
   id: 5
   name: "Cagatay"
   surname: "Civici"
@@ -63,16 +74,18 @@
     - {name: "twitter", link: "https://twitter.com/cagataycivici"}
 
 -
-  id: 13
-  name: "Geertjan"
-  surname: "Wielenga"
-  company: "Oracle"
-  title: "Principal Product Manager"
-  bio: "Geertjan Wielenga is a Principal Product Manager in the Oracle Developer Tools group living & working in Amsterdam. He is a Java technology enthusiast, evangelist, trainer, speaker, and writer. He blogs here daily. The focus of this blog is mostly on NetBeans (a development tool primarily for Java programmers), with an occasional reference to NetBeans, and sometimes diverging to topics relating to NetBeans. And then there are days when NetBeans is mentioned, just for a change."
-  thumbnailUrl: GeertjanWielenga.png
+  id: 1
+  name: "Murat"
+  surname: "Çorlu"
+  company: "Sahibinden.com"
+  title: "Principal Frontend Developer"
+  bio: "In the last 5 years of his past 15 years programming experience, He tried to interest more with front-end technologies and JavaScript. He is very pleased with the developing apps by front-end technologies."
+  thumbnailUrl: MuratCorlu.jpg
   social:
-    - {name: "twitter", link: "https://twitter.com/geertjanw"}
-    - {name: "site", link: "http://blogs.oracle.com/geertjan"}
+    - {name: "google-plus", link: "https://plus.google.com/+MuratÇorlu/"}
+    - {name: "twitter", link: "https://twitter.com/muratcorlu"}
+    - {name: "github", link: "https://github.com/muratcorlu"}
+
 
 -
   id: 6
@@ -166,3 +179,14 @@
    - {name: "twitter", link: "https://twitter.com/aamcalar"}
    - {name: "github", link: "http://github.com/dashersw"}
    - {name: "site", link: "http://arm.ag"}
+
+-
+ id: 14
+ name: "Yağız"
+ surname: "Nizipli"
+ title: "Software Engineer"
+ bio: "Currently pursuing Computer Engineering degree at Sabanci University, I’ve worked with great teams and startups from all over the world. I am an open source software supporter. I’ve been giving security, code styling and git related educations for the past 6 months. I’ve released and been involved in more than 10 iOS and Android applications, and developed more on web. My interests are mostly security, secure web and more precisely cryptography."
+ thumbnailUrl: YagizNizipli.jpg
+ social:
+   - {name: "twitter", link: "https://twitter.com/anonrig"}
+   - {name: "github", link: "http://github.com/anonrig"}

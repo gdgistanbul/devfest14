@@ -19,18 +19,8 @@
     }
     - {
         startTime: "09:30",
-        endTime: "10:00",
-        sessionIds: [997]
-    }
-    - {
-        startTime: "10:00",
-        endTime: "10:30",
-        sessionIds: [999,999,999,999]
-    }
-    - {
-        startTime: "10:30",
         endTime: "10:45",
-        sessionIds: [999,999,999,999]
+        sessionIds: [997]
     }
     - {
         startTime: "11:00",
