@@ -24,6 +24,16 @@
     - {name: "facebook", link: "https://www.facebook.com/idrsolutions"}
 
 -
+  id: 16
+  name: "Thomas"
+  surname: "Mattsson"
+  title: "Project Manager"
+  bio: "Thomas Mattsson works at Vaadin as a Vaadin Expert and Project Manager. He has been designing and implementing Vaadin application architectures for over 6 years. When he isn’t designing, he runs around Europe doing Vaadin trainings and consulting gigs. You might also catch him on the Vaadin Forum."
+  thumbnailUrl: ThomasMattsson.jpg
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/u/1/113090026404571157484"}
+    - {name: "linkedin", link: "https://www.linkedin.com/pub/thomas-mattsson/38/80/225"}
+-
  id: 3
  name: "Wiebe"
  surname: "Elsinga"
