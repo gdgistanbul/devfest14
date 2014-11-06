@@ -29,6 +29,7 @@
   id: 16
   name: "Thomas"
   surname: "Mattsson"
+  company: "Vaadin"
   title: "Project Manager"
   bio: "Thomas Mattsson works at Vaadin as a Vaadin Expert and Project Manager. He has been designing and implementing Vaadin application architectures for over 6 years. When he isn’t designing, he runs around Europe doing Vaadin trainings and consulting gigs. You might also catch him on the Vaadin Forum."
   thumbnailUrl: ThomasMattsson.jpg
