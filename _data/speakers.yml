@@ -101,6 +101,18 @@
     - {name: "twitter", link: "https://twitter.com/muratcorlu"}
     - {name: "github", link: "https://github.com/muratcorlu"}
 
+-
+ id: 17
+ name: "Jose L Ugia"
+ surname: "Gonzalez"
+ company: "Momenta"
+ title: "Co-Founder & Head of Technology"
+ bio: "Entrepreneur as a way of life.\nPassionate about the combination of business + product development and software engineering. Mostly interested about new technologies, especially on the areas of mobile, cloud, and e-health. Side-project believer and wanna-be social entrepreneur. Always free for long beer conversations.\n—\nCurrently Co-Founder & Head of Tech @ Momenta. Google Developer Expert."
+ thumbnailUrl: JoseLUgiaGonzalez.jpg
+ social:
+   - {name: "twitter", link: "http://twitter.com/Jl_Ugia"}
+   - {name: "github", link: "http://github.com/JlUgia"}
+   - {name: "google-plus", link: "https://plus.google.com/+JoseLuisUgiaGonzalez"}
 
 -
   id: 6
