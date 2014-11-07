@@ -27,7 +27,7 @@
 -
   group: "Coffee Break Sponsor"
   elements:
-    - {name: "Gloria Jean's Coffee", description: "Gloria Jean's Coffee", link: "http://www.gloriajeans.com.tr", imageUrl: "gloriajeans.png"}
+    - {name: "Gloria Jean's Coffee", description: "Gloria Jean's Coffee", link: "http://www.gloriajeans.com.tr", imageUrl: "gloriajeans.jpg"}
 -
   group: "Publicity partners"
   elements: 
