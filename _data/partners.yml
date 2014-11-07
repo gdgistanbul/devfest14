@@ -20,7 +20,6 @@
     - {name: "NetBeans", description: "NetBeans", link: "https://netbeans.org/", imageUrl: "netbeans.png"}
     - {name: "EPIK", description: "UK Youth Minecraft geek network", link: "https://twitter.com/EPIKhub", imageUrl: "epik.png", width: "80px"}
     - {name: "4pps", description: "Creating Mobile Apps", link: "http://4pps.co/", imageUrl: "4pps.png"}
-    - {name: "Gamaprime", description: "2D or 3D games, Augmented-Reality, Image Processing, Geo-Location", link: "http://www.gamaprime.com/", imageUrl: "gamaprime.png"}
 -
   group: "Entertainment Sponsor"
   elements:
