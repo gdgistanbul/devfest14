@@ -25,6 +25,10 @@
   elements:
     - {name: "Codemodeon", description: "Codemodeon", link: "http://codemodeon.com", imageUrl: "codemodeon.png"}
 -
+  group: "Coffee Break Sponsor"
+  elements:
+    - {name: "Gloria Jean's Coffee", description: "Gloria Jean's Coffee", link: "http://www.gloriajeans.com.tr", imageUrl: "gloriajeans.png"}
+-
   group: "Publicity partners"
   elements: 
     - {width: "100px",name: "TeknoSeyir", description: "TeknoSeyir", link: "http://www.teknoseyir.com", imageUrl: "teknoseyir.jpg"}
