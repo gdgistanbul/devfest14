@@ -19,6 +19,7 @@
     - {name: "IDR Solutions", description: "PDF to HTML5,  Java PDF Viewer,  Java PDF Library", link: "https://www.idrsolutions.com", imageUrl: "idr.jpg"}
     - {name: "NetBeans", description: "NetBeans", link: "https://netbeans.org/", imageUrl: "netbeans.png"}
     - {name: "EPIK", description: "UK Youth Minecraft geek network", link: "https://twitter.com/EPIKhub", imageUrl: "epik.png", width: "80px"}
+    - {name: "ionCube", description: "PHP Encoder, protection, installer and performance tools from ionCube", link: "http://www.ioncube.com", imageUrl: "ioncube.png", width: "80px"}
     - {name: "4pps", description: "Creating Mobile Apps", link: "http://4pps.co/", imageUrl: "4pps.png"}
 -
   group: "Entertainment Sponsor"
