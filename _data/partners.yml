@@ -33,4 +33,5 @@
   elements: 
     - {name: "ShiftDelete.Net", description: "ShiftDelete.Net", link: "http://shiftdelete.net", imageUrl: "shiftdelete.png"}
     - {name: "Chip Online", description: "Chip Online", link: "http://www.chip.com.tr/", imageUrl: "chip.png"}
+    - {name: "Indir", description: "Indir", link: "http://www.indir.com", imageUrl: "indir.png"}
     - {name: "Girişim Haber", description: "Girişim Haber", link: "http://www.girisimhaber.com/", imageUrl: "girisimhaber.jpg", width: "100px"}
