@@ -58,6 +58,7 @@
   surname: "Derbane"
   company: "Itude Mobile"
   title: "Android Developer"
+  rockstar: true
   bio: "In 2009 Ali Derbane started developing Android software at a company called Itude Mobile. With a vibrant team of cool developers he has developed various applications for different industries like banking and pharmaceutical. While developing these apps lots of challenges arose. These challenges drive him to keep learning about the exciting world of Android. Blogging, hosting workshops and talking about the challenges and the solutions to these challenges gives him the opportunity to share his knowledge with the rest of the world."
   thumbnailUrl: AliDerbane.png
   social:
