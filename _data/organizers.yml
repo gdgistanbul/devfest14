@@ -18,6 +18,7 @@
     - {name: "Anadolu BK", description: "Anadolu Üniversitesi Bilgisayar Kulübü", link: "http://bk.anadolu.edu.tr", imageUrl: "anadolubk.png"}
     - {name: "TUBIT", description: "Trakya Üniversitesi - Bilgisayar ve İnovasyon Topluluğu", link: "http://tubit.trakya.edu.tr", imageUrl: "tubit.png"}
     - {name: "Anadolu IEEE", description: "Anadolu Üniversitesi - IEEE", link: "https://twitter.com/IEEEANADOLU", imageUrl: "anadoluieee.png"}
+    - {name: "KOUBK | Bilgisayar Kulübü - Kocaeli Üniversitesi", description: "KOUBK | Bilgisayar Kulübü - Kocaeli Üniversitesi", link: "http://www.koubk.com/", imageUrl: "koubk.png"}
 -
   group: "Bloggers"
   elements:
