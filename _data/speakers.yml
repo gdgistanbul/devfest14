@@ -67,6 +67,20 @@
     - {name: "linkedin", link: "https://www.linkedin.com/in/derbane"}
 
 -
+  id: 18
+  name: "Marie"
+  surname: "Schweiz"
+  company: "Freelancer"
+  title: "UX Designer"
+  rockstar: true
+  bio: "Marie Schweiz is a designer and she is passionate about user experience and development. She lives and works in Berlin and Munich, Germany. Before becoming a Freelancer, she was already specialized in user experience, visual design for mobile and worked for Sixt rent-a Car. As a founder of #drawtogether and Adobe community professional her passion is to develop the local art and design community in Berlin."
+  thumbnailUrl: MarieSchweiz.png
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/u/0/+MarieSchweiz/"}
+    - {name: "site", link: "http://marie-schweiz.de"}
+    - {name: "twitter", link: "https://twitter.com/ma_rylou"}
+
+-
  id: 15
  name: "Nick"
  surname: "Lindridge"
