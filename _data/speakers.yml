@@ -104,17 +104,17 @@
     - {name: "twitter", link: "https://twitter.com/cagataycivici"}
 
 -
-  id: 1
-  name: "Murat"
-  surname: "Çorlu"
-  company: "Sahibinden.com"
-  title: "Principal Frontend Developer"
-  bio: "In the last 5 years of his past 15 years programming experience, He tried to interest more with front-end technologies and JavaScript. He is very pleased with the developing apps by front-end technologies."
-  thumbnailUrl: MuratCorlu.jpg
+  id: 7
+  name: "Hasan"
+  surname: "Hosgel"
+  company: "ImmobilienScout24"
+  title: "Senior Android Developer"
+  bio: "Hasan Hoşgel is a dedicated Android developer about ten years of professional programming of which more than three years have been in apps development.Continuous improvement of the architecture and also quality are his interest. He is also co-organizer of the “GDG Berlin Android”. Since 2006 Hasan working for ImmobilienScout24 as a Senior Developer."
+  thumbnailUrl: HasanHosgel.jpg
   social:
-    - {name: "google-plus", link: "https://plus.google.com/+MuratÇorlu/"}
-    - {name: "twitter", link: "https://twitter.com/muratcorlu"}
-    - {name: "github", link: "https://github.com/muratcorlu"}
+   - {name: "google-plus", link: "https://www.google.com/+HasanHosgel"}
+   - {name: "twitter", link: "https://twitter.com/alosdev"}
+   - {name: "github", link: "https://github.com/alosdev"}
 
 -
  id: 17
@@ -142,17 +142,17 @@
     - {name: "github", link: "https://github.com/allthein"}
 
 -
-  id: 7
-  name: "Hasan"
-  surname: "Hosgel"
-  company: "ImmobilienScout24"
-  title: "Senior Android Developer"
-  bio: "Hasan Hoşgel is a dedicated Android developer about ten years of professional programming of which more than three years have been in apps development.Continuous improvement of the architecture and also quality are his interest. He is also co-organizer of the “GDG Berlin Android”. Since 2006 Hasan working for ImmobilienScout24 as a Senior Developer."
-  thumbnailUrl: HasanHosgel.jpg
+  id: 1
+  name: "Murat"
+  surname: "Çorlu"
+  company: "Sahibinden.com"
+  title: "Principal Frontend Developer"
+  bio: "In the last 5 years of his past 15 years programming experience, He tried to interest more with front-end technologies and JavaScript. He is very pleased with the developing apps by front-end technologies."
+  thumbnailUrl: MuratCorlu.jpg
   social:
-   - {name: "google-plus", link: "https://www.google.com/+HasanHosgel"}
-   - {name: "twitter", link: "https://twitter.com/alosdev"}
-   - {name: "github", link: "https://github.com/alosdev"}
+    - {name: "google-plus", link: "https://plus.google.com/+MuratÇorlu/"}
+    - {name: "twitter", link: "https://twitter.com/muratcorlu"}
+    - {name: "github", link: "https://github.com/muratcorlu"}
 
 -
  id: 8
