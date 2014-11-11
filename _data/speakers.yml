@@ -46,6 +46,8 @@
  rockstar: true
  bio: "Co-Founder/Organizer Google Developer Group Dutch Android User Group and Mobile Technical Lead at ItudeMobile. Basically a EntrepreNerd. Mainly focused on the design and development of mobile applications. Passionate about Android, UX and innovation. Also a public speaker at technical conferences worldwide and has been nominated to apply for the Google Developer Expert Program."
  thumbnailUrl: WiebeElsinga.png
+ ribbon:
+     - {abbr: 'GDG', title: 'GDG Dutch Android User Group', url: 'https://developers.google.com/groups/chapter/113182948271879290904'}
  social:
    - {name: "google-plus", link: "http://google.com/+WiebeElsinga"}
    - {name: "twitter", link: "http://twitter.com/welsinga"}
@@ -111,6 +113,8 @@
   title: "Senior Android Developer"
   bio: "Hasan Hoşgel is a dedicated Android developer about ten years of professional programming of which more than three years have been in apps development.Continuous improvement of the architecture and also quality are his interest. He is also co-organizer of the “GDG Berlin Android”. Since 2006 Hasan working for ImmobilienScout24 as a Senior Developer."
   thumbnailUrl: HasanHosgel.jpg
+  ribbon:
+       - {abbr: 'GDG', title: 'GDG Berlin Android', url: 'https://developers.google.com/groups/chapter/102464661817600154044'}
   social:
    - {name: "google-plus", link: "https://www.google.com/+HasanHosgel"}
    - {name: "twitter", link: "https://twitter.com/alosdev"}
@@ -124,10 +128,25 @@
  title: "Co-Founder & Head of Technology"
  bio: "Entrepreneur as a way of life.\nPassionate about the combination of business + product development and software engineering. Mostly interested about new technologies, especially on the areas of mobile, cloud, and e-health. Side-project believer and wanna-be social entrepreneur. Always free for long beer conversations.\n—\nCurrently Co-Founder & Head of Tech @ Momenta. Google Developer Expert."
  thumbnailUrl: JoseLUgiaGonzalez.jpg
+ ribbon:
+   - {abbr: 'GDE', title: 'Google Developer Expert', url: 'https://developers.google.com/experts/'}
  social:
    - {name: "twitter", link: "http://twitter.com/Jl_Ugia"}
    - {name: "github", link: "http://github.com/JlUgia"}
    - {name: "google-plus", link: "https://plus.google.com/+JoseLuisUgiaGonzalez"}
+
+-
+ id: 19
+ name: "Filip"
+ surname: "Maelbrancke"
+ company: "AppFoundry"
+ title: "Software Consultant"
+ bio: "Filip Maelbrancke is a software consultant at AppFoundry in Belgium, where he mainly works on Android projects in the financial services, telecom and media sectors. "
+ thumbnailUrl: FilipMaelbrancke.jpg
+ social:
+   - {name: "twitter", link: "https://twitter.com/fmaelbrancke"}
+   - {name: "google-plus", link: "https://plus.google.com/+FilipMaelbrancke"}
+   - {name: "github", link: "https://github.com/filipmaelbrancke"}
 
 -
   id: 6

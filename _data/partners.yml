@@ -21,6 +21,7 @@
     - {name: "EPIK", description: "UK Youth Minecraft geek network", link: "https://twitter.com/EPIKhub", imageUrl: "epik.png", width: "80px"}
     - {name: "ionCube", description: "PHP Encoder, protection, installer and performance tools from ionCube", link: "http://www.ioncube.com", imageUrl: "ioncube.png"}
     - {name: "4pps", description: "Creating Mobile Apps", link: "http://4pps.co/", imageUrl: "4pps.png"}
+    - {name: "ImmobilienScout24", description: "ImmobilienScout24", link: "http://www.immobilienscout24.de", imageUrl: "immobilienscout24.jpg"}
 -
   group: "Entertainment Sponsor"
   elements:
