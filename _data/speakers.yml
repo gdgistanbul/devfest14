@@ -12,6 +12,19 @@
     - {name: "site", link: "http://blogs.oracle.com/geertjan"}
 
 -
+ id: 22
+ name: "Andy"
+ surname: "Volk"
+ company: "Google"
+ title: "Regional Manager, Developer Relations: Africa & Middle East"
+ thumbnailUrl: AndyVolk.jpg
+ social:
+   - {name: "google-plus", link: "https://plus.google.com/+AndyVolk"}
+   - {name: "linkedin", link: "https://www.linkedin.com/in/andyvolk"}
+   - {name: "site", link: "http://andyvolk.com"}
+   - {name: "twitter", link: "https://twitter.com/downtempo"}
+
+-
   id: 2
   name: "Mark"
   surname: "Stephens"
@@ -158,19 +171,6 @@
  social:
    - {name: "linkedin", link: "https://it.linkedin.com/in/massimobrignoli"}
    - {name: "twitter", link: "https://twitter.com/massimobrignoli"}
-
--
- id: 22
- name: "Andy"
- surname: "Volk"
- company: "Google"
- title: "Regional Manager, Developer Relations: Africa & Middle East"
- thumbnailUrl: AndyVolk.jpg
- social:
-   - {name: "google-plus", link: "https://plus.google.com/+AndyVolk"}
-   - {name: "linkedin", link: "https://www.linkedin.com/in/andyvolk"}
-   - {name: "site", link: "http://andyvolk.com"}
-   - {name: "twitter", link: "https://twitter.com/downtempo"}
 
 -
   id: 6
