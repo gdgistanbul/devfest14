@@ -12,10 +12,6 @@
   elements:
     - {name: "Peak Games", imageUrl: "peak.png", description: "Peak Games | Living Through Games", link: "http://www.peakgames.net"}
 -
-  group: "Transportation sponsor"
-  elements:
-    - {name: "Uber", imageUrl: "uber.jpg", description: "Uber", link: "https://www.uber.com"}
--
   group: "With support of"
   elements: 
     - {name: "Eteration", description: "Eteration", link: "http://www.eteration.com", imageUrl: "eteration.png"}
@@ -31,6 +27,10 @@
   group: "Entertainment Sponsor"
   elements:
     - {name: "Codemodeon", description: "Codemodeon", link: "http://codemodeon.com", imageUrl: "codemodeon.png"}
+-
+  group: "Transportation sponsor"
+  elements:
+    - {name: "Uber", imageUrl: "uber.jpg", description: "Uber", link: "https://www.uber.com"}
 -
   group: "Coffee Break Sponsor"
   elements:
