@@ -149,6 +149,30 @@
    - {name: "github", link: "https://github.com/filipmaelbrancke"}
 
 -
+ id: 21
+ name: "Massimo"
+ surname: "Brignoli"
+ company: "MongoDB"
+ title: "Senior Solutions Architect"
+ thumbnailUrl: MassimoBrignoli.jpg
+ social:
+   - {name: "linkedin", link: "https://it.linkedin.com/in/massimobrignoli"}
+   - {name: "twitter", link: "https://twitter.com/massimobrignoli"}
+
+-
+ id: 22
+ name: "Andy"
+ surname: "Volk"
+ company: "Google"
+ title: "Regional Manager, Developer Relations: Africa & Middle East"
+ thumbnailUrl: AndyVolk.jpg
+ social:
+   - {name: "google-plus", link: "https://plus.google.com/+AndyVolk"}
+   - {name: "linkedin", link: "https://www.linkedin.com/in/andyvolk"}
+   - {name: "site", link: "http://andyvolk.com"}
+   - {name: "twitter", link: "https://twitter.com/downtempo"}
+
+-
   id: 6
   name: "Altan"
   surname: "Yilmaz"
@@ -188,6 +212,20 @@
   - {name: "linkedin", link: "https://www.linkedin.com/in/florentbiville"}
 
 -
+ id: 11
+ name: "Pietro A."
+ surname: "Rossi"
+ company: "Mosaicoon S.p.A"
+ title: "Systems Engineer"
+ bio: "Programmer since 2000, starting with QBasic and most recently Android development and learning C, Assembler, C++, HTML, PHP and Java along the way. Working in a startup Mosaicoon S.P.A., my strength is Android programming and problem solving. I've been an invited speaker at Rome Codemotion 2013, Madrid Codemotion 2013, Droidcon Italy and other international events. I also been a speaker in other national events such as Linux, Day Linux Meeting, Java Day in Palermo and Ragusa."
+ thumbnailUrl: PietroAlbertoRossi.jpg
+ social:
+   - {name: "google-plus", link: "https://www.google.com/+PietroAlbertoRossi"}
+   - {name: "twitter", link: "https://twitter.com/sprik89"}
+   - {name: "linkedin", link: "http://it.linkedin.com/in/pietroalbertorossi"}
+   - {name: "facebook", link: "https://www.facebook.com/sprikmeister"}
+
+-
  id: 9
  name: "Ahmet"
  surname: "Alpat"
@@ -215,20 +253,6 @@
    - {name: "github", link: "https://github.com/eluleci"}
 
 -
- id: 11
- name: "Pietro A."
- surname: "Rossi"
- company: "Mosaicoon S.p.A"
- title: "Systems Engineer"
- bio: "Programmer since 2000, starting with QBasic and most recently Android development and learning C, Assembler, C++, HTML, PHP and Java along the way. Working in a startup Mosaicoon S.P.A., my strength is Android programming and problem solving. I've been an invited speaker at Rome Codemotion 2013, Madrid Codemotion 2013, Droidcon Italy and other international events. I also been a speaker in other national events such as Linux, Day Linux Meeting, Java Day in Palermo and Ragusa."
- thumbnailUrl: PietroAlbertoRossi.jpg
- social:
-   - {name: "google-plus", link: "https://www.google.com/+PietroAlbertoRossi"}
-   - {name: "twitter", link: "https://twitter.com/sprik89"}
-   - {name: "linkedin", link: "http://it.linkedin.com/in/pietroalbertorossi"}
-   - {name: "facebook", link: "https://www.facebook.com/sprikmeister"}
-
--
  id: 12
  name: "Armağan"
  surname: "Amcalar"
@@ -240,6 +264,32 @@
    - {name: "twitter", link: "https://twitter.com/aamcalar"}
    - {name: "github", link: "http://github.com/dashersw"}
    - {name: "site", link: "http://arm.ag"}
+
+-
+ id: 20
+ name: "Naci"
+ surname: "Dai"
+ company: "eteration"
+ title: "Founding Partner/Chief Scientist"
+ bio: "Naci is the Chief Scientist and founder of eteration a.s. He is an object mentor and an educator. Naci is the founder of ObjectLearn and in 2000 wrote ObjectWeb Lomboz™, an Open Source Software for JavaEE development. He is an active contributor to open source, the ObjectWeb Consortium and the Eclipse Foundation. Prior to eteration, Naci was with BEA Systems Inc. and The Object People as the Managing Director of Professional Services. With a strong foundation in Applied Engineering and Computational Physics,Naci received his Ph.D. from Carleton University, Ottawa, Canada. He is a member of the faculty at Sabanci University where he teaches object technologies, web development and distributed computing. Eteration is a member of the ObjectWeb Consortium and a member of the Eclispe Web Tools Platform Project (WTP), Project Management Committee. Naci is a member of the WTP PMC, representing ObjectWeb, and leads the Eclipse Java Standard Tools subproject. eteration is also a provider of tools, developer resources and server infrastructures to WTP project and contributes source training tools and courseware to the Eclipse Community Education Project (ECESIS)."
+ thumbnailUrl: NaciDai.jpg
+ social:
+   - {name: "linkedin", link: "https://tr.linkedin.com/pub/naci-dai/1/57a/bb"}
+   - {name: "twitter", link: "https://twitter.com/nacidai"}
+   - {name: "github", link: "https://github.com/nacidai"}
+
+-
+ id: 23
+ name: "Mert"
+ surname: "Çalışkan"
+ company: "T2"
+ title: "Principal Architect"
+ thumbnailUrl: MertCaliskan.jpg
+ social:
+   - {name: "google-plus", link: "https://plus.google.com/115857670924602665714"}
+   - {name: "linkedin", link: "https://www.linkedin.com/in/mertcaliskan"}
+   - {name: "facebook", link: "https://www.facebook.com/mertcaliskan"}
+   - {name: "twitter", link: "https://twitter.com/mertcal"}
 
 -
  id: 14

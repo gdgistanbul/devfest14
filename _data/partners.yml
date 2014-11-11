@@ -12,6 +12,10 @@
   elements:
     - {name: "Peak Games", imageUrl: "peak.png", description: "Peak Games | Living Through Games", link: "http://www.peakgames.net"}
 -
+  group: "Transportation sponsor"
+  elements:
+    - {name: "Uber", imageUrl: "uber.jpg", description: "Uber", link: "https://www.uber.com"}
+-
   group: "With support of"
   elements: 
     - {name: "Eteration", description: "Eteration", link: "http://www.eteration.com", imageUrl: "eteration.png"}
@@ -22,6 +26,7 @@
     - {name: "ionCube", description: "PHP Encoder, protection, installer and performance tools from ionCube", link: "http://www.ioncube.com", imageUrl: "ioncube.png"}
     - {name: "4pps", description: "Creating Mobile Apps", link: "http://4pps.co/", imageUrl: "4pps.png"}
     - {name: "ImmobilienScout24", description: "ImmobilienScout24", link: "http://www.immobilienscout24.de", imageUrl: "immobilienscout24.jpg"}
+    - {name: "MongoDB", description: "MongoDB", link: "http://www.mongodb.org", imageUrl: "mongodb.jpeg"}
 -
   group: "Entertainment Sponsor"
   elements:
