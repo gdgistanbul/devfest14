@@ -23,6 +23,7 @@
     - {name: "4pps", description: "Creating Mobile Apps", link: "http://4pps.co/", imageUrl: "4pps.png"}
     - {name: "ImmobilienScout24", description: "ImmobilienScout24", link: "http://www.immobilienscout24.de", imageUrl: "immobilienscout24.jpg"}
     - {name: "MongoDB", description: "MongoDB", link: "http://www.mongodb.org", imageUrl: "mongodb.jpeg"}
+    - {name: "Valven", description: "Valven", link: "http://www.valven.com", imageUrl: "valven.png"}
 -
   group: "Entertainment Sponsor"
   elements:
