@@ -302,3 +302,17 @@
  social:
    - {name: "twitter", link: "https://twitter.com/anonrig"}
    - {name: "github", link: "http://github.com/anonrig"}
+
+-
+ id: 24
+ name: "Semih"
+ surname: "Yağcıoğlu"
+ company: "MITS"
+ title: "Senior Software Engineer"
+ bio: "Semih is a software developer. He likes to solve problems and get things done. He works at MITS on mobile and web. He is also a PhD student in Computer Science at Hacettepe University with a focus on Computer Vision."
+ thumbnailUrl: SemihYagcioglu.jpg
+ social:
+   - {name: "site", link: "http://www.semihyagcioglu.com"}
+   - {name: "twitter", link: "https://twitter.com/semihyagcioglu"}
+   - {name: "linkedin", link: "https://www.linkedin.com/in/semih"}
+   - {name: "github", link: "https://github.com/semihyagcioglu"}
