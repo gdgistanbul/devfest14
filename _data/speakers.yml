@@ -282,9 +282,10 @@
  id: 23
  name: "Mert"
  surname: "Çalışkan"
- company: "T2"
+ company: "T2 Yazılım"
  title: "Principal Architect"
- thumbnailUrl: MertCaliskan.jpg
+ bio: "Mert Caliskan (1980-) is a Principle Software Architect living in Ankara, Turkey. He has over 10+ years of expertise in software development with the architectural design of Enterprise Java web applications. He is an open source advocate for software projects such as PrimeFaces, and has also been committer and founder to various others. He is the co-author of PrimeFaces Cookbook by Packt Publishing. He is the co-author of Beginning Spring by Wiley Publications. He is also working as an author for RebelLabs. He is the founder of AnkaraJUG, which is the most active JUG in Turkey. In 2014, he is entitled as a Java Champion for his achievements. He is part-time lecturing at Hacettepe University about Enterprise Web Applications' Architecture and Web Services. He shares his knowledge at national and international conferences like JDays 2015, JavaOne 2013, JDC2010 and JSFDays'08."
+ thumbnailUrl: MertCaliskan.png
  social:
    - {name: "google-plus", link: "https://plus.google.com/115857670924602665714"}
    - {name: "linkedin", link: "https://www.linkedin.com/in/mertcaliskan"}
