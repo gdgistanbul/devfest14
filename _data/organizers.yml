@@ -19,6 +19,7 @@
     - {name: "TUBIT", description: "Trakya Üniversitesi - Bilgisayar ve İnovasyon Topluluğu", link: "http://tubit.trakya.edu.tr", imageUrl: "tubit.png"}
     - {name: "Anadolu IEEE", description: "Anadolu Üniversitesi - IEEE", link: "https://twitter.com/IEEEANADOLU", imageUrl: "anadoluieee.png"}
     - {name: "KOUBK | Bilgisayar Kulübü - Kocaeli Üniversitesi", description: "KOUBK | Bilgisayar Kulübü - Kocaeli Üniversitesi", link: "http://www.koubk.com/", imageUrl: "koubk.png"}
+    - {name: "Compec | Boğaziçi Üniversitesi Bilişim Kulübü", description: "Compec | Boğaziçi Üniversitesi Bilişim Kulübü", link: "http://compec.boun.edu.tr/site", imageUrl: "compec.png"}
 -
   group: "Bloggers"
   elements:
