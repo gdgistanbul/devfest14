@@ -25,7 +25,7 @@
     - {name: "MongoDB", description: "MongoDB", link: "http://www.mongodb.org", imageUrl: "mongodb.jpeg"}
     - {name: "Valven", description: "Valven", link: "http://www.valven.com", imageUrl: "valven.png"}
 -
-  group: "Entertainment Sponsor"
+  group: "Entertainment sponsor"
   elements:
     - {name: "Codemodeon", description: "Codemodeon", link: "http://codemodeon.com", imageUrl: "codemodeon.png"}
 -
@@ -33,7 +33,7 @@
   elements:
     - {name: "Uber", imageUrl: "uber.jpg", description: "Uber", link: "https://www.uber.com"}
 -
-  group: "Coffee Break Sponsor"
+  group: "Coffee Break sponsor"
   elements:
     - {name: "Gloria Jean's Coffee", description: "Gloria Jean's Coffee", link: "http://www.gloriajeans.com.tr", imageUrl: "gloriajeans.jpg"}
 -
