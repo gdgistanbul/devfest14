@@ -324,7 +324,6 @@
   title: "Cyber Security Engineer"
   bio: "Mehmet İNCE still continues his duty as the Penetration Test Lead of INTELRAD Turkey. İnce is known to be involved in the field of cyber security since 2004. Especially, he has been recognized with his researches and experience in web applications/servers. He has also worked in a wide variety of projects as a developer and security consultant. So far, İnce has discovered and published security vulnerabilities in more than 150 open source applications. Most of these findings are still available on exploit-db, as well as İnce's blog page, where he shares his ideas about current security issues and offer  his contributions to global security community."
   thumbnailUrl: MehmetInce.jpg
-  rockstar: true
   social:
     - {name: "twitter", link: "https://twitter.com/mdisec"}
     - {name: "github", link: "https://github.com/mmetince"}
