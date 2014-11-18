@@ -25,6 +25,7 @@
     - {name: "MongoDB", description: "MongoDB", link: "http://www.mongodb.org", imageUrl: "mongodb.jpeg"}
     - {name: "Valven", description: "Valven", link: "http://www.valven.com", imageUrl: "valven.png"}
     - {name: "Rekmob", description: "Rekmob", link: "http://www.rekmob.com", imageUrl: "rekmob.png"}
+    - {name: "Dikeyeksen", description: "Dikeyeksen", link: "http://www.dikeyeksen.com", imageUrl: "dikeyeksen.png"}
 -
   group: "Entertainment sponsor"
   elements:
