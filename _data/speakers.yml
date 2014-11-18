@@ -99,6 +99,7 @@
  id: 15
  name: "Nick"
  surname: "Lindridge"
+ company: "ionCube Ltd."
  title: "Founder"
  bio: "Founder of the ionCube brand with the mission to empower PHP developers and website owners with tools for software security, with awesome customer service."
  thumbnailUrl: NickLindridge.jpg
