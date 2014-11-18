@@ -24,6 +24,7 @@
     - {name: "ImmobilienScout24", description: "ImmobilienScout24", link: "http://www.immobilienscout24.de", imageUrl: "immobilienscout24.jpg"}
     - {name: "MongoDB", description: "MongoDB", link: "http://www.mongodb.org", imageUrl: "mongodb.jpeg"}
     - {name: "Valven", description: "Valven", link: "http://www.valven.com", imageUrl: "valven.png"}
+    - {name: "Rekmob", description: "Rekmob", link: "http://www.rekmob.com", imageUrl: "rekmob.png"}
 -
   group: "Entertainment sponsor"
   elements:
