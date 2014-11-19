@@ -19,7 +19,7 @@
  title: "Regional Manager, Developer Relations: Africa & Middle East"
  thumbnailUrl: AndyVolk.jpg
  ribbon:
-        - {abbr: "Google", title: "Googler", url: "https://google.com"}
+      - {abbr: "Google", title: "Googler", url: "https://google.com"}
  social:
    - {name: "google-plus", link: "https://plus.google.com/+AndyVolk"}
    - {name: "linkedin", link: "https://www.linkedin.com/in/andyvolk"}
@@ -342,4 +342,50 @@
     - {name: "twitter", link: "https://twitter.com/mdisec"}
     - {name: "github", link: "https://github.com/mmetince"}
     - {name: "site", link: "https://mehmetince.net"}
+-
+ id: 27
+ name: "Kaan"
+ surname: "Mamikoglu"
+ title: "Akıllı Yazılım"
+ bio: "I am currently a senior in Computer Engineering major at the Anadolu University in Eskisehir, Turkey. I have developed or helped to develop over 20 apps that is published on mobile app stores, both Google Play Store and Apple’s App Store. I am the Google Developer Group (GDG) Eskişehir co-organizer."
+ thumbnailUrl: KaanMamikoglu.jpg
+ ribbon:
+     - {abbr: "GDG", title: "GDG Eskisehir", url: "http://www.gdgeskisehir.org/"}
+ social:
+    - {name: "site", link: "https://iamkaan.com"}
+    - {name: "google-plus", link: "https://www.google.com/+kaanmamikoglu"}
+    - {name: "github", link: "https://github.com/iamkaan"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/iamkaan"}
+    - {name: "stack-overflow", link: "http://stackoverflow.com/users/2121682/iamkaan"}
 
+-
+ id: 28
+ name: "Murat Can"
+ surname: "BUR"
+ company: "Akıllı Yazılım"
+ title: "Developer"
+ bio: "Currently developing mobile applications for Android and creating awesome stuffs for Akıllı Yazılım. He also loves blogging"
+ thumbnailUrl: MuratcanBur.jpg
+ ribbon:
+      - {abbr: "GDG", title: "GDG Eskisehir", url: "http://www.gdgeskisehir.org/"}
+ social:
+    - {name: "site", link: "http://muratcanbur.com/"}
+    - {name: "google-plus", link: "https://plus.google.com/+MuratCanBUR"}
+    - {name: "github", link: "https://github.com/muratcanbur"}
+    - {name: "twitter", link: "https://twitter.com/muratcanbur"}
+
+-
+  id: 29
+  name: "Orhun Mert"
+  surname: "Şimşek"
+  company: "4pps"
+  title: "CEO"
+  bio: "Loves and develops Android Apps for over 4 years, now he has to develop iOS Apps, too. Very interested with performance optimization and UX for mobile apps. Mert also likes new tech-toys like wearables, smart devices etc. He is Co-Founder of 4pps company which only develops for mobile."
+  thumbnailUrl: MertSimsek.jpg
+  ribbon:
+       - {abbr: "GDG", title: "GDG Ankara", url: "http://www.gdgankara.org/"}
+  social:
+    - {name: "site", link: "http://mertsimsek.net"}
+    - {name: "google-plus", link: "https://plus.google.com/+MertŞimşekMert" }
+    - {name: "linkedin", link: "https://www.linkedin.com/in/simsekmert" }
+    - {name: "twitter", link: "http://twitter.com/orhunmertsimsek" }
