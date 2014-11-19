@@ -346,7 +346,8 @@
  id: 27
  name: "Kaan"
  surname: "Mamikoglu"
- title: "Akıllı Yazılım"
+ company: "Akıllı Yazılım"
+ title: "Mobile Developer"
  bio: "I am currently a senior in Computer Engineering major at the Anadolu University in Eskisehir, Turkey. I have developed or helped to develop over 20 apps that is published on mobile app stores, both Google Play Store and Apple’s App Store. I am the Google Developer Group (GDG) Eskişehir co-organizer."
  thumbnailUrl: KaanMamikoglu.jpg
  ribbon:
