@@ -82,3 +82,16 @@
   social:
     - {name: "google-plus", link: "https://plus.google.com/111544553321439278692"}
     - {name: "twitter", link: "https://twitter.com/bilinginci"}
+-
+ id: 9
+ name: "Kaan"
+ surname: "Mamikoglu"
+ title: "Akıllı Yazılım"
+ thumbnailUrl: KaanMamikoglu.jpg
+ team: true
+ social:
+    - {name: "site", link: "https://iamkaan.com"}
+    - {name: "google-plus", link: "https://www.google.com/+kaanmamikoglu"}
+    - {name: "github", link: "https://github.com/iamkaan"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/iamkaan"}
+    - {name: "stack-overflow", link: "http://stackoverflow.com/users/2121682/iamkaan"}
