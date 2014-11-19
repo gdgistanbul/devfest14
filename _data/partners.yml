@@ -26,6 +26,8 @@
     - {name: "Valven", description: "Valven", link: "http://www.valven.com", imageUrl: "valven.png"}
     - {name: "Rekmob", description: "Rekmob", link: "http://www.rekmob.com", imageUrl: "rekmob.png"}
     - {name: "Dikeyeksen", description: "Dikeyeksen", link: "http://www.dikeyeksen.com", imageUrl: "dikeyeksen.png"}
+    - {name: "Mobillium", description: "Mobillium", link: "http://www.mobillium.com", imageUrl: "mobillium.png"}
+    - {name: "Akıllı Yazılım", description: "Akıllı Yazılım", link: "http://www.akilliyazilim.org", imageUrl: "akilliyazilim.png"}
 -
   group: "Entertainment sponsor"
   elements:
