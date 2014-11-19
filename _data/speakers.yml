@@ -109,6 +109,15 @@
    - {name: "linkedin", link: "https://www.linkedin.com/in/nicklindridge"}
 
 -
+  id: 26
+  name: "Cüneyt"
+  surname: "Unar"
+  company: "Google"
+  title: "Strategic New Business Manager at Google AdMob"
+  bio: "Cuneyt Unar has been working nearly for 4 years at Google now, currently looking after the Google AdMob Partnership programme in European markets. He is a scholar of mobile app ecosystem while constantly speaking at industry events to share his know-how with the developer communities, providing the latest updates from Google and generously offer marketing consultancy to the Start-ups. His area of expertise is monetization with IAP, advertising and alternative channels."
+  thumbnailUrl: cuneytunar.jpg
+  
+-
   id: 5
   name: "Cagatay"
   surname: "Civici"
@@ -318,6 +327,7 @@
    - {name: "github", link: "https://github.com/semihyagcioglu"}
 
 -
+  id: 25
   name: "Mehmet"
   surname: "İnce"
   company: "INTELRAD"
@@ -328,3 +338,4 @@
     - {name: "twitter", link: "https://twitter.com/mdisec"}
     - {name: "github", link: "https://github.com/mmetince"}
     - {name: "site", link: "https://mehmetince.net"}
+
