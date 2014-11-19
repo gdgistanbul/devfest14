@@ -117,9 +117,9 @@
   company: "Google"
   title: "Strategic New Business Manager at Google AdMob"
   ribbon:
-          - {abbr: "Google", title: "Googler", url: "https://google.com"}
+      - {abbr: "Google", title: "Googler", url: "https://google.com"}
   bio: "Cuneyt Unar has been working nearly for 4 years at Google now, currently looking after the Google AdMob Partnership programme in European markets. He is a scholar of mobile app ecosystem while constantly speaking at industry events to share his know-how with the developer communities, providing the latest updates from Google and generously offer marketing consultancy to the Start-ups. His area of expertise is monetization with IAP, advertising and alternative channels."
-  thumbnailUrl: CuneytUnar.jpg
+  thumbnailUrl: CuneytUnar.png
   
 -
   id: 5
