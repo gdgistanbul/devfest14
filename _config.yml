@@ -38,10 +38,10 @@ c4sponsorsUrl: "/assets/devfest2014.pdf"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- - {permalink: "/logistics/", text: "Logistics"}
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/#partners", text: "Sponsors"}
  - {permalink: "/organizers", text: "Organizers"}
+ - {permalink: "/logistics/", text: "Logistics"}
  - {link: "http://2013.devfesttr.com", text: "DevFest'13"}
  - {link: "http://wtm14.devfesttr.com", text: "DevFest Women'14"}
 bottomNavigationLinks:
