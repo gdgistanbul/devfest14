@@ -62,18 +62,6 @@
     - {name: "github", link: "https://github.com/tasomaniac"}
     - {name: "site", link: "http://www.tasomaniac.com"}
 -
-  id: 6
-  name: "Halil"
-  surname: "Kaya"
-  title: "Software Developer"
-  thumbnailUrl: HalilKaya.jpg
-  team: true
-  social:
-    - {name: "google-plus", link: "https://plus.google.com/+HalilKaya"}
-    - {name: "twitter", link: "https://twitter.com/halilkaya"}
-    - {name: "github", link: "https://github.com/halilkaya"}
-    - {name: "site", link: "http://www.halilkaya.net"}
--
   id: 7
   name: "Busra"
   surname: "Deniz"
