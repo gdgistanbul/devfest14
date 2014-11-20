@@ -12,6 +12,14 @@
   elements:
     - {name: "Peak Games", imageUrl: "peak.png", description: "Peak Games | Living Through Games", link: "http://www.peakgames.net"}
 -
+  group: "Transportation sponsor"
+  elements:
+    - {name: "Uber", imageUrl: "uber.png", description: "Uber", link: "https://www.uber.com"}
+-
+  group: "Entertainment sponsor"
+  elements:
+    - {name: "Codemodeon", description: "Codemodeon", link: "http://codemodeon.com", imageUrl: "codemodeon.png"}
+-
   group: "With support of"
   elements: 
     - {name: "Eteration", description: "Eteration", link: "http://www.eteration.com", imageUrl: "eteration.png"}
@@ -29,18 +37,6 @@
     - {name: "Mobillium", description: "Mobillium", link: "http://www.mobillium.com", imageUrl: "mobillium.png"}
     - {name: "Akıllı Yazılım", description: "Akıllı Yazılım", link: "http://www.akilliyazilim.org", imageUrl: "akilliyazilim.png"}
 -
-  group: "Entertainment sponsor"
-  elements:
-    - {name: "Codemodeon", description: "Codemodeon", link: "http://codemodeon.com", imageUrl: "codemodeon.png"}
--
-  group: "Transportation sponsor"
-  elements:
-    - {name: "Uber", imageUrl: "uber.jpg", description: "Uber", link: "https://www.uber.com"}
--
-  group: "Coffee Break sponsor"
-  elements:
-    - {name: "Gloria Jean's Coffee", description: "Gloria Jean's Coffee", link: "http://www.gloriajeans.com.tr", imageUrl: "gloriajeans.jpg"}
--
   group: "Publicity partners"
   elements: 
     - {width: "100px",name: "TeknoSeyir", description: "TeknoSeyir", link: "http://www.teknoseyir.com", imageUrl: "teknoseyir.jpg"}
@@ -49,3 +45,7 @@
     - {name: "Indir", description: "Indir", link: "http://www.indir.com", imageUrl: "indir.png"}
     - {name: "Girişim Haber", description: "Girişim Haber", link: "http://www.girisimhaber.com/", imageUrl: "girisimhaber.jpg", width: "100px"}
     - {name: "webtekno", description: "webtekno", link: "http://www.webtekno.com", imageUrl: "webtekno.png"}
+-
+  group: "Coffee Break sponsor"
+  elements:
+    - {name: "Gloria Jean's Coffee", description: "Gloria Jean's Coffee", link: "http://www.gloriajeans.com.tr", imageUrl: "gloriajeans.jpg"}
