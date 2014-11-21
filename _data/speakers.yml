@@ -27,6 +27,38 @@
    - {name: "twitter", link: "https://twitter.com/downtempo"}
 
 -
+ id: 23
+ name: "Mert"
+ surname: "Çalışkan"
+ company: "T2 Yazılım"
+ title: "Principal Architect"
+ bio: "Mert Caliskan is a Principle Software Architect living in Ankara, Turkey. He has over 10+ years of expertise in software development with the architectural design of Enterprise Java web applications. He is an open source advocate for software projects such as PrimeFaces, and has also been committer and founder to various others. He is the co-author of PrimeFaces Cookbook by Packt Publishing. He is the co-author of Beginning Spring by Wiley Publications. He is also working as an author for RebelLabs. He is the founder of AnkaraJUG, which is the most active JUG in Turkey. In 2014, he is entitled as a Java Champion for his achievements. He is part-time lecturing at Hacettepe University about Enterprise Web Applications' Architecture and Web Services. He shares his knowledge at national and international conferences like JDays 2015, JavaOne 2013, JDC2010 and JSFDays'08."
+ thumbnailUrl: MertCaliskan.png
+ rockstar: true
+ ribbon:
+      - {abbr: "Champion", title: "Java Champions", url: "https://blogs.oracle.com/java/entry/new_java_champions_mert_caliskan"}
+ social:
+   - {name: "google-plus", link: "https://plus.google.com/115857670924602665714"}
+   - {name: "linkedin", link: "https://www.linkedin.com/in/mertcaliskan"}
+   - {name: "facebook", link: "https://www.facebook.com/mertcaliskan"}
+   - {name: "twitter", link: "https://twitter.com/mertcal"}
+
+-
+  id:
+  name: "Martijn"
+  surname: "Verburg"
+  company: "jClarity"
+  title: "Co-founder & CEO of jClarity"
+  bio: "Martijn Verburg is the co-founder & CEO of jClarity - a Java/JVM performance analysis start-up. He is the co-leader for the LJC (aka London JUG), from which he runs the global Adopt OpenJDK and Adopt a JSR programmes, two open source projects (PCGen and Ikasan EIP), and is a bartender at the Javaranch. You can also find him answering thorny questions at the Programmers StackExchange. He's a regular speaker at conferences (FOSDEM, JavaOne, OSCON, Devoxx etc) and is the co-author of "The Well-Grounded Java Developer" (Manning publications). Martijn was recently selected as a Java Champion in recognition for his contribution to the Java ecosystem There are rumors that he might be the infamous Diabolical Developer, but that's clearly just a lie...."
+  thumbnailUrl: MartijnVerburg.png
+  rockstar: true
+  ribbon:
+      - {abbr: "Champion", title: "Java Champions", url: "http://www.oracle.com/technetwork/articles/java/martijn-1865077.html"}
+  social:
+     - {name: "google-plus", link: "https://plus.google.com/+MartijnVerburg"}
+     - {name: "twitter", link: "https://twitter.com/karianna "}
+
+-
   id: 2
   name: "Mark"
   surname: "Stephens"
@@ -50,7 +82,7 @@
   thumbnailUrl: ThomasMattsson.jpg
   rockstar: true
   social:
-    - {name: "google-plus", link: "https://plus.google.com/u/1/113090026404571157484"}
+    - {name: "google-plus", link: "https://plus.google.com/113090026404571157484"}
     - {name: "linkedin", link: "https://www.linkedin.com/pub/thomas-mattsson/38/80/225"}
 -
  id: 3
@@ -93,7 +125,7 @@
   bio: "Marie Schweiz is a designer and she is passionate about user experience and development. She lives and works in Berlin and Munich, Germany. Before becoming a Freelancer, she was already specialized in user experience, visual design for mobile and worked for Sixt rent-a Car. As a founder of #drawtogether and Adobe community professional her passion is to develop the local art and design community in Berlin."
   thumbnailUrl: MarieSchweiz.png
   social:
-    - {name: "google-plus", link: "https://plus.google.com/u/0/+MarieSchweiz/"}
+    - {name: "google-plus", link: "https://plus.google.com/+MarieSchweiz"}
     - {name: "site", link: "http://marie-schweiz.de"}
     - {name: "twitter", link: "https://twitter.com/ma_rylou"}
 
@@ -122,7 +154,7 @@
   ribbon:
         - {abbr: "Google", title: "Googler", url: "https://google.com"}
   social:
-      - {name: "google-plus", link: "https://plus.google.com/+ChrisJonesGoogle/about"}
+      - {name: "google-plus", link: "https://plus.google.com/+ChrisJonesGoogle"}
       - {name: "twitter", link: "https://twitter.com/mugeylmz_"}
 
 -
@@ -174,23 +206,6 @@
    - {name: "google-plus", link: "https://www.google.com/+HasanHosgel"}
    - {name: "twitter", link: "https://twitter.com/alosdev"}
    - {name: "github", link: "https://github.com/alosdev"}
-
--
- id: 23
- name: "Mert"
- surname: "Çalışkan"
- company: "T2 Yazılım"
- title: "Principal Architect"
- bio: "Mert Caliskan is a Principle Software Architect living in Ankara, Turkey. He has over 10+ years of expertise in software development with the architectural design of Enterprise Java web applications. He is an open source advocate for software projects such as PrimeFaces, and has also been committer and founder to various others. He is the co-author of PrimeFaces Cookbook by Packt Publishing. He is the co-author of Beginning Spring by Wiley Publications. He is also working as an author for RebelLabs. He is the founder of AnkaraJUG, which is the most active JUG in Turkey. In 2014, he is entitled as a Java Champion for his achievements. He is part-time lecturing at Hacettepe University about Enterprise Web Applications' Architecture and Web Services. He shares his knowledge at national and international conferences like JDays 2015, JavaOne 2013, JDC2010 and JSFDays'08."
- thumbnailUrl: MertCaliskan.png
- rockstar: true
- ribbon:
-      - {abbr: "Champion", title: "Java Champions", url: "https://blogs.oracle.com/java/entry/new_java_champions_mert_caliskan"}
- social:
-   - {name: "google-plus", link: "https://plus.google.com/115857670924602665714"}
-   - {name: "linkedin", link: "https://www.linkedin.com/in/mertcaliskan"}
-   - {name: "facebook", link: "https://www.facebook.com/mertcaliskan"}
-   - {name: "twitter", link: "https://twitter.com/mertcal"}
 
 -
  id: 17
@@ -264,7 +279,7 @@
  bio: "Passionate about well-crafted and simple software, Florent Biville strives for learning and improving his practice everyday. He enjoys learning many ways of doing one thing, creating/contributing to FOSS, computing science history and telling cheap jokes."
  thumbnailUrl: FlorentBiville.png
  social:
-  - {name: "google-plus", link: "https://plus.google.com/118349835803233673871/posts"}
+  - {name: "google-plus", link: "https://plus.google.com/118349835803233673871"}
   - {name: "twitter", link: "https://twitter.com/fbiville"}
   - {name: "github", link: "https://github.com/fbiville"}
   - {name: "linkedin", link: "https://www.linkedin.com/in/florentbiville"}
