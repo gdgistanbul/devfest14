@@ -4217,6 +4217,14 @@ nav li a.current, nav li a:hover {
     border-right: 4px solid #72e1b3
 }
 
+.ribbon-wrapper .google {
+    border-right: 4px solid #304461
+}
+
+.ribbon-wrapper .champion {
+    border-right: 4px solid #f74914
+}
+
 .ribbon-wrapper .ribbon {
     font-size: 13px;
     font-weight: 300;
