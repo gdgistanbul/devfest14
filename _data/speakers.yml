@@ -49,7 +49,7 @@
   surname: "Verburg"
   company: "jClarity"
   title: "Co-founder & CEO of jClarity"
-  bio: "Martijn Verburg is the co-founder & CEO of jClarity - a Java/JVM performance analysis start-up. He is the co-leader for the LJC (aka London JUG), from which he runs the global Adopt OpenJDK and Adopt a JSR programmes, two open source projects (PCGen and Ikasan EIP), and is a bartender at the Javaranch. You can also find him answering thorny questions at the Programmers StackExchange. He's a regular speaker at conferences (FOSDEM, JavaOne, OSCON, Devoxx etc) and is the co-author of "The Well-Grounded Java Developer" (Manning publications). Martijn was recently selected as a Java Champion in recognition for his contribution to the Java ecosystem There are rumors that he might be the infamous Diabolical Developer, but that's clearly just a lie...."
+  bio: "Martijn Verburg is the co-founder & CEO of jClarity - a Java/JVM performance analysis start-up. He is the co-leader for the LJC (aka London JUG), from which he runs the global Adopt OpenJDK and Adopt a JSR programmes, two open source projects (PCGen and Ikasan EIP), and is a bartender at the Javaranch. You can also find him answering thorny questions at the Programmers StackExchange. He's a regular speaker at conferences (FOSDEM, JavaOne, OSCON, Devoxx etc) and is the co-author of 'The Well-Grounded Java Developer' (Manning publications). Martijn was recently selected as a Java Champion in recognition for his contribution to the Java ecosystem There are rumors that he might be the infamous Diabolical Developer, but that's clearly just a lie...."
   thumbnailUrl: MartijnVerburg.png
   rockstar: true
   ribbon:
