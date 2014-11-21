@@ -84,6 +84,17 @@
     - {name: "linkedin", link: "https://www.linkedin.com/in/derbane"}
 
 -
+  id: 30
+  name: "Müge"
+  surname: "Yılmaz"
+  company: "Google"
+  title: "Strategic Partner Manager-Mobile Apps"
+  bio: "As a Strategic Partner Manager at Google, Müge works with app developers who use In App Advertising as a channel for monetizing their audience; either exclusively or complementary to in app purchase (IAP). She focuses on mApp ad monetization, App UX, Play Store optimization & customer retention and App Analytics. Prior her role in Google, she spent 4 years in IBM Turkey Software Group both in Sales and Sales Advisory positions. Müge holds master’s degree in Business Information Systems from Bogazici University. She currently lives in Dublin but travels her hometown, Istanbul frequently."
+  thumbnailUrl: MugeYilmaz.jpg
+  ribbon:
+        - {abbr: "Google", title: "Googler", url: "https://google.com"}
+
+-
   id: 18
   name: "Marie"
   surname: "Schweiz"
