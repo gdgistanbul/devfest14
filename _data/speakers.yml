@@ -169,10 +169,10 @@
   ribbon:
     - {abbr: "GDG", title: "Google Developer Groups Istanbul", url: "http://gdgistanbul.com"}
   social:
-    - {name: "google-plus", link: "https://google.com/+MuratYener"}
-    - {name: "twitter", link: "https://twitter.com/yenerm"}
-    - {name: "github", link: "https://github.com/yenerm"}
-    - {name: "site", link: "http://www.devchronicles.com"}"}
+      - {name: "google-plus", link: "https://google.com/+MuratYener"}
+      - {name: "twitter", link: "https://twitter.com/yenerm"}
+      - {name: "github", link: "https://github.com/yenerm"}
+      - {name: "site", link: "http://www.devchronicles.com/"}
 
 -
  id: 15
