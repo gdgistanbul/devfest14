@@ -96,7 +96,6 @@
     - {name: "google-plus", link: "https://www.google.com/+kaanmamikoglu"}
     - {name: "github", link: "https://github.com/iamkaan"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/iamkaan"}
-    - {name: "stack-overflow", link: "http://stackoverflow.com/users/2121682/iamkaan"}
 
 -
  id: 10
@@ -108,5 +107,18 @@
  team: true
  social:
     - {name: "site", link: "http://blog.yusufcakmak.com/"}
-    - {name: "google-plus", link: "https://plus.google.com/u/0/+YusufÇakmak"}
+    - {name: "google-plus", link: "https://plus.google.com/+YusufÇakmak"}
     - {name: "twitter", link: "https://twitter.com/yukocan"}
+
+-
+  id: 11
+  name: "Caner"
+  surname: "Yıldırım"
+  title: "Android Developer"
+  thumbnailUrl: CanerYildirim.jpg
+  team: true
+  social:
+    - {name: "site", link: "http://protechman.net/"}
+    - {name: "google-plus", link: "https://plus.google.com/107030277691710062122/"}
+    - {name: "github", link: "https://github.com/protechman"}
+    - {name: "twitter", link: "https://twitter.com/protechman"}
