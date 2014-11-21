@@ -4,6 +4,10 @@
     - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/",imageUrl: "google.svg"}
     - {width: "200px",name: "Turkcell", description: "Turkcell & Turkcell Gelecegi Yazanlar", link: "http://www.turkcell.com.tr", imageUrl: "turkcell_white_bg.jpg"}
 -
+  group: "Diamond sponsor"
+  elements:
+    - {name: "Intel", imageUrl: "intel.png", description: "Intel: Tablet, 2in1, Laptop, Desktop, Smartphone, Server, Embedded", link: "http://www.intel.com"}
+-
   group: "Platin sponsor"
   elements:
     - {name: "FIT", imageUrl: "fit.png", description: "FIT Solutions | SAP Partner | e-Dönüşüm | e-Fatura | e-Defter | e-imza | e-Arşiv", link: "http://www.fitsolutions.com.tr"}
