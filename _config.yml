@@ -46,8 +46,6 @@ navigationLinks:
  - {link: "http://wtm14.devfesttr.com", text: "DevFest Women'14"}
 bottomNavigationLinks:
  - {link: "http://www.meetup.com/MineCraft-Istanbul/events/213563482/", text: "Minecraft Workshop"}
-rightNavigationButtons:
- - {permalink: "/assets/devfest2014.pdf", text: "Become a sponsor"}
 
 # Hero Block
 heroImage: "hero.jpg"
