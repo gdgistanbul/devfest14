@@ -20,3 +20,8 @@
   description: "How can you make sure that your next web application supports not only the desktop browser but also all other devices and screen sizes? And that it can efficiently talk to back-end services in a bidirectional way? With new concepts for client-side development such as responsive web design, MVVM frameworks, and hybrid web applications and with new APIs for WebSocket, REST services, JSON, and more, Java EE 7 with HTML5 may be the best combination to meet your needs. Attend this code-driven session, i.e., there will be one or two slides but no more than that, to see how you can efficiently develop such an application and how advanced integrated tools can help you with both server and client code."
   speakers: [13]
   language: en
+-
+  id: 102
+  title: "Traits of High Quality Apps"
+  speakers: [22]
+  language: en
