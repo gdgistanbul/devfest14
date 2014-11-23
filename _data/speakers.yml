@@ -232,7 +232,7 @@
   thumbnailUrl: VitalyZasadnyy.jpg
   ribbon:
      - {abbr: "GDG", title: "GDG Lviv", url: "http://lviv.gdg.org.ua"}
-    social:
+  social:
      - {name: "google-plus", link: "https://plus.google.com/+VitalikZasadnyy"}
      - {name: "twitter", link: "https://twitter.com/zasadnyy"}
      - {name: "site", link: "http://zasadnyy.org.ua/"}
