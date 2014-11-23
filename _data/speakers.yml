@@ -556,3 +556,16 @@
     - {name: "google-plus", link: "https://plus.google.com/+MertŞimşekMert" }
     - {name: "linkedin", link: "https://www.linkedin.com/in/simsekmert" }
     - {name: "twitter", link: "http://twitter.com/orhunmertsimsek" }
+
+-
+  id: 29
+  name: "Miraç"
+  surname: "Satıç"
+  title: "Firefox Student Ambassador"
+  bio: "He's studying CTIS at the Bilkent University in Ankara, Turkey and he contributed to many open source projects. Also, he is interested in Java, Scala and Python technologies. His team won the first prize at the Startup Weekend 2013 contest in Eskişehir, Turkey. He's working for Mozilla as a Firefox Student Ambassador since November, 2014."
+  thumbnailUrl: MiracSatic.jpg
+  social:
+    - {name: "facebook", link: "http://facebook.com/miracsa"}
+    - {name: "google-plus", link: "https://plus.google.com/+MiraçSATIÇ" }
+    - {name: "linkedin", link: "https://www.linkedin.com/in/miracsa" }
+    - {name: "twitter", link: "http://twitter.com/miracsa" }
