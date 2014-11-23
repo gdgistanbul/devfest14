@@ -254,10 +254,67 @@
   surname: "Bayram"
   thumbnailUrl: OrhanBayram.jpg
   company: "Turkcell"
-  title: "Project Manager"
+  title: "Product Manager"
   social:
      - {name: "linkedin", link: "https://linkedin.com/in/orhanbayram"}
      - {name: "twitter", link: "https://twitter.com/orhanbayram"}
+
+-
+ id: 38
+ name: "Sezer"
+ surname: "Yesiltas"
+ thumbnailUrl: SezerYesiltas.jpg
+ company: "Turkcell"
+ title: "Terminal and Mobility Development Manager"
+ social:
+    - {name: "linkedin", link: "https://linkedin.com/pub/sezer-yesiltas/29/829/343"}
+    - {name: "twitter", link: "https://twitter.com/sezerr"}
+
+-
+ id: 39
+ name: "Görkem"
+ surname: "Çetin"
+ thumbnailUrl: GorkemCetin.png
+ company: "Turkcell"
+ title: "Product Manager"
+ social:
+    - {name: "linkedin", link: "https://linkedin.com/in/gorkemcetin"}
+    - {name: "twitter", link: "https://twitter.com/gorkemcetin"}
+
+-
+ id: 40
+ name: "Esat"
+ surname: "Belhan"
+ thumbnailUrl: EsatBelhan.jpg
+ company: "Turkcell"
+ title: "Product Manager"
+ social:
+    - {name: "linkedin", link: "https://linkedin.com/in/esatbelhan"}
+    - {name: "twitter", link: "https://twitter.com/esatbelhan"}
+
+-
+ id: 41
+ name: "Can"
+ surname: "Çiloğlu"
+ thumbnailUrl: CanCiloglu.jpg
+ company: "Turkcell"
+ title: "Senior Software Engineer"
+ social:
+    - {name: "linkedin", link: "https://linkedin.com/in/canciloglu"}
+    - {name: "twitter", link: "https://twitter.com/canciloglu"}
+
+-
+ id: 42
+ name: "Yasin"
+ surname: "Kafadar"
+ thumbnailUrl: YasinKafadar.jpg
+ company: "Turkcell"
+ title: "Developer"
+ social:
+    - {name: "linkedin", link: "https://linkedin.com/in/yasinkafadar"}
+    - {name: "twitter", link: "https://twitter.com/yasinkafadar"}
+    - {name: "github", link: "https://github.com/yasinkafadar"}
+    - {name: "github", link: "https://github.com/yasin-kafadar"}
 
 -
  id: 17
