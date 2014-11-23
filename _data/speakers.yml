@@ -27,6 +27,17 @@
    - {name: "twitter", link: "https://twitter.com/downtempo"}
 
 -
+ id: 36
+ name: "Önder"
+ surname: "Filiz"
+ company: "Turkcell"
+ title: "Mobile Applications & App Store Manager at Turkcell"
+ thumbnailUrl: OnderFiliz.jpg
+ social:
+   - {name: "linkedin", link: "https://www.linkedin.com/pub/onder-filiz/3/a86/19b"}
+   - {name: "twitter", link: "https://twitter.com/onderfiliz"}
+
+-
  id: 23
  name: "Mert"
  surname: "Çalışkan"
