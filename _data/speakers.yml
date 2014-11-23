@@ -225,6 +225,19 @@
    - {name: "github", link: "https://github.com/alosdev"}
 
 -
+  id: 35
+  name: "Vitaly"
+  surname: "Zasadnyy"
+  bio: "Mobile developer, Google Developers Group and Gamedev Community Lviv co-founder. Interested in GameDev, Android, iOS, Google App Engine and community management. Used to work for enterprise giants like EPAM as well as for product companies such as NRavo. Nowedays leading team focused on Unity 3D game engine. TEDx speaker."
+  thumbnailUrl: VitalyZasadnyy.jpg
+  ribbon:
+     - {abbr: "GDG", title: "GDG Lviv", url: "http://lviv.gdg.org.ua"}
+    social:
+     - {name: "google-plus", link: "https://plus.google.com/+VitalikZasadnyy"}
+     - {name: "twitter", link: "https://twitter.com/zasadnyy"}
+     - {name: "site", link: "http://zasadnyy.org.ua/"}
+
+-
  id: 17
  name: "Jose L Ugia"
  surname: "Gonzalez"
