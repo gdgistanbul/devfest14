@@ -249,6 +249,17 @@
      - {name: "site", link: "http://zasadnyy.org.ua/"}
 
 -
+  id: 37
+  name: "Orhan"
+  surname: "Bayram"
+  thumbnailUrl: OrhanBayram.jpg
+  company: "Turkcell"
+  title: "Project Manager"
+  social:
+     - {name: "linkedin", link: "https://linkedin.com/in/orhanbayram"}
+     - {name: "twitter", link: "https://twitter.com/orhanbayram"}
+
+-
  id: 17
  name: "Jose L Ugia"
  surname: "Gonzalez"
