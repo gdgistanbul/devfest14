@@ -229,7 +229,7 @@
   bio: "Hasan Hoşgel is a dedicated Android developer about ten years of professional programming of which more than three years have been in apps development.Continuous improvement of the architecture and also quality are his interest. He is also co-organizer of the “GDG Berlin Android”. Since 2006 Hasan working for ImmobilienScout24 as a Senior Developer."
   thumbnailUrl: HasanHosgel.jpg
   ribbon:
-       - {abbr: "GDG", title: "GDG Berlin Android", url: "https://developers.google.com/groups/chapter/102464661817600154044"}
+     - {abbr: "GDG", title: "GDG Berlin Android", url: "https://developers.google.com/groups/chapter/102464661817600154044"}
   social:
    - {name: "google-plus", link: "https://www.google.com/+HasanHosgel"}
    - {name: "twitter", link: "https://twitter.com/alosdev"}
@@ -359,7 +359,7 @@
  id: 20
  name: "Naci"
  surname: "Dai"
- company: "eteration"
+ company: "Eteration"
  title: "Founding Partner/Chief Scientist"
  bio: "Naci is the Chief Scientist and founder of eteration a.s. He is an object mentor and an educator. Naci is the founder of ObjectLearn and in 2000 wrote ObjectWeb Lomboz™, an Open Source Software for JavaEE development. He is an active contributor to open source, the ObjectWeb Consortium and the Eclipse Foundation. Prior to eteration, Naci was with BEA Systems Inc. and The Object People as the Managing Director of Professional Services. With a strong foundation in Applied Engineering and Computational Physics,Naci received his Ph.D. from Carleton University, Ottawa, Canada. He is a member of the faculty at Sabanci University where he teaches object technologies, web development and distributed computing. Eteration is a member of the ObjectWeb Consortium and a member of the Eclispe Web Tools Platform Project (WTP), Project Management Committee. Naci is a member of the WTP PMC, representing ObjectWeb, and leads the Eclipse Java Standard Tools subproject. eteration is also a provider of tools, developer resources and server infrastructures to WTP project and contributes source training tools and courseware to the Eclipse Community Education Project (ECESIS)."
  thumbnailUrl: NaciDai.jpg
@@ -382,7 +382,7 @@
 -
   id: 6
   name: "Altan"
-  surname: "Yilmaz"
+  surname: "Yılmaz"
   title: "Frontend Architect"
   bio: "Building and implementing large scaled web & hybrid mobile JavaScript applications."
   thumbnailUrl: AltanYilmaz.jpg
