@@ -247,3 +247,7 @@
   title: "Software Craftsmanship: Building A Culture for The Future"
   description: "Good software can only be developed by good developers. Even though 'being good' or 'success' have different meanings for everyone, something is certain: It's the culture that makes teams succeed, not the individuals. that Software Craftsmanship defines a culture for development teams where people builds not only software, but also themselfs. It is the new feeling of defining rules in software development. In this session, as the founder of software craftsmanship turkey community, I will describe what Software Craftsmanship is, why it is important and how it is different."
   language: tr
+-
+  id: 147
+  speakers: [47]
+  language: tr
