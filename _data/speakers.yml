@@ -517,7 +517,7 @@
  bio: "I am currently a senior in Computer Engineering major at the Anadolu University in Eskisehir, Turkey. I have developed or helped to develop over 20 apps that is published on mobile app stores, both Google Play Store and Apple’s App Store. I am the Google Developer Group (GDG) Eskişehir co-organizer."
  thumbnailUrl: KaanMamikoglu.jpg
  ribbon:
-     - {abbr: "GDG", title: "GDG Eskisehir", url: "http://www.gdgeskisehir.org/"}
+   - {abbr: "GDG", title: "GDG Eskisehir", url: "http://www.gdgeskisehir.org/"}
  social:
     - {name: "site", link: "https://iamkaan.com"}
     - {name: "google-plus", link: "https://www.google.com/+kaanmamikoglu"}
@@ -534,7 +534,7 @@
  bio: "Currently developing mobile applications for Android and creating awesome stuffs for Akıllı Yazılım. He also loves blogging"
  thumbnailUrl: MuratCanBur.jpg
  ribbon:
-      - {abbr: "GDG", title: "GDG Eskisehir", url: "http://www.gdgeskisehir.org/"}
+    - {abbr: "GDG", title: "GDG Eskisehir", url: "http://www.gdgeskisehir.org/"}
  social:
     - {name: "site", link: "http://muratcanbur.com/"}
     - {name: "google-plus", link: "https://plus.google.com/+MuratCanBUR"}

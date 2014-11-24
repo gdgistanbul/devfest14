@@ -162,7 +162,7 @@
   language: en
 -
   id: 127
-  speakers: [27-28]
+  speakers: [27,28]
   title: "Designing and developing a watch face for Android Wear & Material Design in Android"
   description: "First: Android Wear is one of the hottest topics in these days. When we take a look at the currently available watch faces, the first thought most of us will probably get is what if we could decide what we see on our wrist every time we look at it. Since the official docs are not really covering implementation of custom watch faces, let's sit together and learn how to design and build beautiful watch faces on Android Wear by ourselves. After: Materyal tasarımı denince aklınıza ne geliyorsa unutun. Google bu tanımlamayı yeniden yapıyor."
   language: tr
