@@ -147,6 +147,8 @@
 -
   id: 121
   speakers: [21]
+  title: "Scaling MongoDB"
+  description: "You've got MongoDB deployed, but your app has taken off and you need to set it up to perform under heavy loads. MongoDB offers sharding capabilities so we can horizontally scale our application and ensure consistent performance. In this session, we will go through scaling options for our application. You will walk away deeper understanding of how to configure your sharding setup, choose a shard key and leverage this feature for optimal scale."
   language: en
 -
   id: 122
@@ -251,4 +253,6 @@
 -
   id: 147
   speakers: [47]
+  title: "Angular Kickstart"
+  description: "You Might Not Need jQuery! What is AngularJS? Front End Development with AngularJS. Recipes with AngularJS AngularJS. Performance Tricks Preview to Build App with AngularJS"
   language: tr
