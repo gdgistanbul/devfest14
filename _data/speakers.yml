@@ -535,6 +535,20 @@
     - {name: "twitter", link: "https://twitter.com/mdisec"}
     - {name: "github", link: "https://github.com/mmetince"}
     - {name: "site", link: "https://mehmetince.net"}
+
+-
+  id: 47
+  name: "Tolga"
+  surname: "Eğilmezel"
+  company: "Bilgiodası"
+  title: "Lead Front-End Developer"
+  bio: "I'm Web Designer & Developer since 2005. All over this years I have developed custom CMS. I have worked with number of small and large companies ( over 90 ). As a Designer, Developer and Managed more than 5 project. Currently working Freelance ( since 2008 ) as a Cat&Brown."
+  thumbnailUrl: TolgaEgilmezel.jpg
+  social:
+    - {name: "twitter", link: "https://twitter.com/Tolga_Egilmezel"}
+    - {name: "github", link: "https://github.com/Tolga-Egilmezel"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/tolgaegilmezel"}
+
 -
  id: 27
  name: "Kaan"
