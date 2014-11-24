@@ -233,7 +233,7 @@
   id: 143
   speakers: [43]
   title: "Google Cloud SQL"
-  description: "Bu sunumda Google Cloud Platform hizmetlerinden biri olan Google Cloud SQL anlatılacaktır. Kod örnekleriyle birlikte desteklenecek bu sunum, bu teknoloji hakkında size detaylı bilgiler vermeyi hedeflemektedir."
+  description: "In the presentation, Google Cloud SQL, which is one of the Google Cloud Services, will be explained. The presentation supported by code examples intends to give particular informations about this technology."
   language: tr
 -
   id: 144
