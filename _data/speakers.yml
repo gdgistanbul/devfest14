@@ -105,7 +105,7 @@
  bio: "Co-Founder/Organizer Google Developer Group Dutch Android User Group and Mobile Technical Lead at ItudeMobile. Basically a EntrepreNerd. Mainly focused on the design and development of mobile applications. Passionate about Android, UX and innovation. Also a public speaker at technical conferences worldwide and has been nominated to apply for the Google Developer Expert Program."
  thumbnailUrl: WiebeElsinga.png
  ribbon:
-     - {abbr: "GDG", title: "GDG Dutch Android User Group", url: "https://developers.google.com/groups/chapter/113182948271879290904"}
+     - {abbr: "GDG", title: "GDG Dutch Android User Group", url: "https://developers.google.com/groups/chapter/113182948271879290904/"}
  social:
    - {name: "google-plus", link: "http://google.com/+WiebeElsinga"}
    - {name: "twitter", link: "http://twitter.com/welsinga"}
@@ -229,7 +229,7 @@
   bio: "Hasan Hoşgel is a dedicated Android developer about ten years of professional programming of which more than three years have been in apps development.Continuous improvement of the architecture and also quality are his interest. He is also co-organizer of the “GDG Berlin Android”. Since 2006 Hasan working for ImmobilienScout24 as a Senior Developer."
   thumbnailUrl: HasanHosgel.jpg
   ribbon:
-     - {abbr: "GDG", title: "GDG Berlin Android", url: "https://developers.google.com/groups/chapter/102464661817600154044"}
+     - {abbr: "GDG", title: "GDG Berlin Android", url: "https://developers.google.com/groups/chapter/102464661817600154044/"}
   social:
    - {name: "google-plus", link: "https://www.google.com/+HasanHosgel"}
    - {name: "twitter", link: "https://twitter.com/alosdev"}
