@@ -14,6 +14,12 @@
   id: 996
   title: "Registration"
   service: true
+
+-
+  id: 600
+  title: "Turkcell Panel"
+  description: "Mobile Opportunities in Turkey"
+  speakers: [37,38,39,40,41,42]
 -
   id: 101
   speakers: [1]
