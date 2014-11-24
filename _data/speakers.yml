@@ -603,9 +603,9 @@
        - {abbr: "GDG", title: "GDG Ankara", url: "http://www.gdgankara.org/"}
   social:
     - {name: "site", link: "http://mertsimsek.net"}
-    - {name: "google-plus", link: "https://plus.google.com/+MertŞimşekMert" }
-    - {name: "linkedin", link: "https://www.linkedin.com/in/simsekmert" }
-    - {name: "twitter", link: "http://twitter.com/orhunmertsimsek" }
+    - {name: "google-plus", link: "https://plus.google.com/+MertŞimşekMert"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/simsekmert"}
+    - {name: "twitter", link: "http://twitter.com/orhunmertsimsek"}
 
 -
   id: 43
@@ -616,6 +616,18 @@
   thumbnailUrl: MiracSatic.jpg
   social:
     - {name: "facebook", link: "http://facebook.com/miracsa"}
-    - {name: "google-plus", link: "https://plus.google.com/+MiraçSATIÇ" }
-    - {name: "linkedin", link: "https://www.linkedin.com/in/miracsa" }
-    - {name: "twitter", link: "http://twitter.com/miracsa" }
+    - {name: "google-plus", link: "https://plus.google.com/+MiraçSATIÇ"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/miracsa"}
+    - {name: "twitter", link: "http://twitter.com/miracsa"}
+
+-
+  id: 48
+  name: "Barış"
+  surname: "Güler"
+  title: "Front-end Developer"
+  company: "Markafoni"
+  bio: "I started my career as a Java backend developer and now I am working as a Javascript developer at Markafoni. We have been currently using some modern web development tools, libraries and frameworks like Knockout, Backbone, etc and trying to improve the codebase as well with some maintenance optimizations. Nowadays, I am working on automated task tools, environment development and architecting applications."
+  thumbnailUrl: BarisGuler.jpg
+  social:
+    - {name: "twitter", link: "http://twitter.com/hwclass"}
+    - {name: "github", link: "http://github.com/hwclass"}

@@ -260,3 +260,9 @@
   title: "Angular Kickstart"
   description: "You Might Not Need jQuery! What is AngularJS? Front End Development with AngularJS. Recipes with AngularJS AngularJS. Performance Tricks Preview to Build App with AngularJS"
   language: tr
+-
+  id: 148
+  speakers: [48]
+  title: "Modern Development Makes Easy"
+  description: "However, as a developer, the environment of a development becomes vital because it determines the quality of your code. In the other way, the extra routines can be automated by some tools like Gulp/Grunt for automated tasks, Bower for dependency management, SASS for writing enjoyful CSS, Jade for more readable and unexhausted HTML and etc. This presentation aims telling the audience about how to develop something else easier as well."
+  language: tr
