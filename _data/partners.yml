@@ -42,6 +42,8 @@
     - {name: "Akıllı Yazılım", description: "Akıllı Yazılım", link: "http://www.akilliyazilim.org", imageUrl: "akilliyazilim.png"}
     - {name: "Yemeksepeti", description: "Yemek Sepeti - pizza, kebap, fast food, diyet, hamburger, balık, köfte, pide ve her türlü restorandan paket servis yemek siparişi", link: "http://www.yemeksepeti.com", imageUrl: "yemeksepeti.png"}
     - {name: "Robotistan", description: "Türkiye'nin En Büyük Robotik Marketi | Robot Malzemeleri | Arduino | Pololu | Raspberry Pi | Beagleboard", link: "http://www.robotistan.com/", imageUrl: "robotistan.png"}
+    - {name: "Priyoid", description: "Priyoid - Print Your Idea - 3D Yazıcı Teknolojisi - 3D Yazıcı", link: "http://www.priyoid.com/", imageUrl: "priyoid.png"}
+    - {name: "Smartface", description: "Smartface", link: "http://www.smartface.io/", imageUrl: "smartface.png"}
 -
   group: "Publicity partners"
   elements: 
