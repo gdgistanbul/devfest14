@@ -203,7 +203,8 @@
 -
   id: 133
   speakers: [33]
-  description: ""
+  title: "Intel on Android: Nexus Player, Tools, NDK and beyond..."
+  description: "In this talk you will hear about the Intel tools for building Android Apps, how to build you native code with NDK to run on all platforms and finally how to develop for the new Android kid on the block, The Nexus Player."
   language: tr
 -
   id: 134
