@@ -86,7 +86,7 @@
   speakers: [12]
   title: "Unlocking Native Performance for Hybrid Mobile Apps with tartJS"
   description: "Hybrid mobile apps, that mix HTML5 technologies with native shells, are a great idea when it comes to deploying your app to multiple mobile operating systems. Many frameworks such as jQuery Mobile, Sencha Touch or Ionic exist to make your development easier. But performance and experience on the device is in fact far from native. In this talk, I'll share our hybrid mobile apps know-how at Startup Kitchen, which we've been developing for over two years. We'll look at performance bottlenecks, best practices, browser behavior and finally, how we develop our mobile apps using our home-grown tartJS mobile framework based on Google Closure Library."
-  language: en
+  language: tr
 -
   id: 113
   title: "Coding for Desktop and Mobile with HTML5 and Java EE 7"
@@ -98,7 +98,7 @@
   speakers: [14]
   title: "Web Development: Making it the right way"
   description: "Web development is a tricky part for most of the developers in our era. With the use of popular templating engines such as Jade and Stylus and compiling it with Grunt and Node.js, test-driven programming and use of different environments, became more useful than ever. In this presentation, we will go over the basics of jade and stylus, and show you the methods to create different environments for different platforms for your web application, including hybrid mobile applications."
-  language: en
+  language: tr
 -
   id: 115
   speakers: [15]
