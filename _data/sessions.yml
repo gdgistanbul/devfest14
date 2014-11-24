@@ -57,7 +57,7 @@
   speakers: [6]
   title: "Single Page JavaScript Applications"
   description: "See full JavaScript single page web & mobile applications on the stage from development from production."
-  language: en
+  language: tr
 -
   id: 107
   speakers: [7]
@@ -73,7 +73,7 @@
   speakers: [9]
   title: "Hardware for software developers: how to design a hardware based product."
   description: "Hardware is the new package of software. As a software developer, how are you planning to ship your software in this new package? In this talk, we will try to figure out how to use development and prototyping boards like Arduino, Raspberry Pi, BeagleBone to create a project POC and early versions of your products."
-  language: en
+  language: tr
 -
   id: 110
   speakers: [10]
@@ -143,7 +143,7 @@
   speakers: [20]
   title: "Love your Lambdas"
   description: "Java 8 finally introduced Lambdas into the language. We love them and we hate them. In this talk you will get a glimpse of how you change the way you code for the better and see Eclipse Luna support for Java8"
-  language: en
+  language: tr
 -
   id: 121
   speakers: [21]
@@ -163,13 +163,13 @@
   speakers: [24]
   title: "Developing Android Wear Apps"
   description: "Mobile changed our lives in many ways we could not imagine. Wearable devices are the most important change since the mobile revolution. We are at the beginning of a turning point. It is now becoming possible to go beyond our dreams and start developing for wearable devices. Come and see what Android Wear has to offer! Take a step and start today. See why and how to develop Android Wear apps."
-  language: en
+  language: tr
 -
   id: 125
   speakers: [25]
   title: "Web Uygulama Saldırıları ve Framework'lere Güvenmek"
   description: "Web uygulamalarının olmaz ise olmazlarından birisi framework'lerdir. Web uygulamalarına gelen saldırıların bir çoğunun Framework temelli gerçekleştiği günümüzde, geliştiriciler açısında en ciddi problem Framework'lerin güvenlik perspektifinden bakılmaksızın kullanılmasıdır. Sunum içerisinden güvenlik açısından dikkat edilmesi gereken noktalara değinilerek , popüler PHP Web Frameworklerden birisi analiz edilecektir. Analiz sonucunda tespit edilen zafiyetin lab ortamında saldırısı gerçekleştirilecektir."
-  language: en
+  language: tr
 -
   id: 126
   speakers: [26]
@@ -187,7 +187,7 @@
   speakers: [29]
   title: "Andromance - Android Performance Optimization"
   description: "In this section, some tricks and hints about optimizing an Android app’s performance will be given. There will be compare between “the good” and “the bad” ones. Then “how would we optimize the bad one?” will be discussed."
-  language: en
+  language: tr
 -
   id: 130
   speakers: [30,31]
