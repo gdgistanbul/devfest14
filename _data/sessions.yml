@@ -22,6 +22,11 @@
   language: tr
   speakers: [37,38,39,40,41,42]
 -
+  id: 601
+  title: "GDG Panel"
+  description: "Being GDG"
+  language: tr
+-
   id: 101
   speakers: [1]
   title: "Web Development in Angular Way"
@@ -112,16 +117,20 @@
   description: "Vaadin is Java framework for rapid development of highly interactive HTML5-based web applications in a server-side environment. It abstracts the web from your applications, allowing them to be developed in pure Java following desktop application patterns and design. Vaadin leverages the full power of GWT, a Java to Javascript compiler making it possible to develop the entire web application stack and new client-side components without leaving the Java environment. During the session attendees will get an overview of Vaadin 7.3, a closer look at the Vaadin architecture and what really happens behind the scenes of the framework. New features of Vaadin 7.4 will also be briefly discussed."
   language: en
 -
-  id: 117
+  id: 216
   speakers: [16]
   title: "Creating Mobile Applications With 100% Java"
   description: "Vaadin is Java framework for rapid development of highly interactive HTML5-based web applications in a server-side environment. With the Vaadin TouchKit add-on, we provide mobile developers powerful tools to create server-based web applications that look and feel almost native, without leaving our Java tooling behind. During the session attendees will get an overview of Vaadin TouchKit, with tips and tricks for mobile development using Vaadin."
   language: en
 -
-  id: 118
-  speakers: [118]
+  id: 117
+  speakers: [17]
   title: "Building our next big thing on a weekend"
   description: "Being the guy-for-all, full-stack developer is nowadays easier than ever. And even though putting all the workload and pressure into one person is obviously not beneficial in most cases, this fact on the other hand enables us to prototype our projects and ideas much quicker and just by ourselves, but also takes repetitive work and other time consumers away from our todo list. We'll explore how state of the art on technologies like App Engine, Android, Web or iOS together with online tools like repository hosting services, online free training and cloud storage services among others, provide us with the right environment to prototype our ideas quickly, reaching MVPs through a quick iterative development process. To illustrate that process we'll build a simple cross-platform app on Android with an Api on App Engine. We'll use Python on the api side (sample code for Go will be also provided)."
+  language: en
+-
+  id: 118
+  speakers: [18]
   language: en
 -
   id: 119
@@ -201,7 +210,7 @@
   speakers: [34]
   title: "Phabricator: An all-in-one tool for code review, communication and task management"
   description: "In this talk, we explore Phabricator which is created by Facebook engineers. It has most of the things that a team may need in order to develop software. It allows for agile development while scaling gracefully as the project grows."
-  language: en
+  language: tr
 -
   id: 135
   speakers: [35]
