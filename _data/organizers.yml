@@ -20,6 +20,7 @@
     - {name: "Anadolu IEEE", description: "Anadolu Üniversitesi - IEEE", link: "https://twitter.com/IEEEANADOLU", imageUrl: "anadoluieee.png"}
     - {name: "KOUBK | Bilgisayar Kulübü - Kocaeli Üniversitesi", description: "KOUBK | Bilgisayar Kulübü - Kocaeli Üniversitesi", link: "http://www.koubk.com/", imageUrl: "koubk.png"}
     - {name: "Compec | Boğaziçi Üniversitesi Bilişim Kulübü", description: "Compec | Boğaziçi Üniversitesi Bilişim Kulübü", link: "http://compec.boun.edu.tr/site", imageUrl: "compec.png"}
+    - {name: "RoboGYTE | Gebze Teknik Üniversitesi Robotik Kulübü", description: "RoboGYTE | Gebze Teknik Üniversitesi Robotik Kulübü", link: "http://www.robogyte.com/", imageUrl: "robotik.png"}
 -
   group: "Bloggers"
   elements:
