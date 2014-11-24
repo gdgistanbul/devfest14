@@ -41,10 +41,14 @@
 -
   id: 103
   speakers: [3]
+  title: "Succeed with your Android application."
+  description: "Most apps fail, and it can happen to your Android application too. So what do I need to do to make it a success? This talk will (hopefully) give you a insight on how to prevent the pitfall of failure, and show you what you need to take in consideration when developing your Android app."
   language: en
 -
   id: 104
-  speakers: [4]
+  speakers: [4,3]
+  title: "The hitchhiker's guide to functional testing"
+  description: "Android development and testing go hand in hand. When it comes to automated functional testing there are plenty of frameworks out there. During this interactive session Wiebe and Ali will be presenting a fine selection that could help you decide what to use in your next project. Some of the frameworks they will talk about are Robotium, Robolectric, UIAutomator, Calabash, Selendroid and Espresso. And since it’s a developer conference there will be code as well!"
   language: en
 -
   id: 105
