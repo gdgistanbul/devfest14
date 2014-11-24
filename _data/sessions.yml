@@ -173,8 +173,8 @@
 -
   id: 125
   speakers: [25]
-  title: "Web Uygulama Saldırıları ve Framework'lere Güvenmek"
-  description: "Web uygulamalarının olmaz ise olmazlarından birisi framework'lerdir. Web uygulamalarına gelen saldırıların bir çoğunun Framework temelli gerçekleştiği günümüzde, geliştiriciler açısında en ciddi problem Framework'lerin güvenlik perspektifinden bakılmaksızın kullanılmasıdır. Sunum içerisinden güvenlik açısından dikkat edilmesi gereken noktalara değinilerek , popüler PHP Web Frameworklerden birisi analiz edilecektir. Analiz sonucunda tespit edilen zafiyetin lab ortamında saldırısı gerçekleştirilecektir."
+  title: "Web Application Attacks and Trusting Frameworks"
+  description: "Frameworks are undeniably one of the most important elements of frameworks. As we continue to witness a significant increase in number of framework-based attacks towards web applications each day, usage of Frameworks without considering security-related aspects continue to be the most drastic problem that developers face. Throughout the presentation; Mr. İnce will analyze one of the most commonly-used PHP web frameworks by highlighting important security considerations; followed by a real-time exploitation of discovered vulnerability in LAB environment."
   language: tr
 -
   id: 126
