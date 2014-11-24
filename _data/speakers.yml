@@ -298,6 +298,7 @@
  surname: "Çiloğlu"
  thumbnailUrl: CanCiloglu.jpg
  company: "Turkcell"
+ bio: "Can Çiloğlu is a software engineer with 9+ years of experience in developing various software systems and he is currently working for Turkcell. He has an extensive experience on developing performance critical systems with Java and Web technologies. He is passionate about developing mobile applications on Android and iOS for the last 5 years. Can also loves to work on image processing, mobile gaming and robotics projects in his spare time."
  title: "Senior Software Engineer"
  social:
     - {name: "linkedin", link: "https://linkedin.com/in/canciloglu"}
@@ -308,6 +309,7 @@
  name: "Yasin"
  surname: "Kafadar"
  thumbnailUrl: YasinKafadar.jpg
+ bio: "In the summer of 2010, Yasin was accepted as a intern to Turkcell. Since that time, He is working for Turkcell and developing Mobile Applications. He loves to research new technologies."
  company: "Turkcell"
  title: "Developer"
  social:
