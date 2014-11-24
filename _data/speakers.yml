@@ -393,6 +393,18 @@
     - {name: "linkedin", link: "https://linkedin.com/in/muharremtac"}
     - {name: "facebook", link: "https://www.facebook.com/muharremtac"}
 
+-
+  id: 46
+  name: "Lemi Orhan"
+  surname: "Ergin"
+  title: "Agile Practice Lead and Technical Architect"
+  company: "Sony"
+  bio: " Lemi Orhan Ergin took Bs. and Ms. degrees from Marmara University Computer Engineering Department in 2002 and 2005 respectively. He has been working in teams developing web applications and backend components & services as developer, lead developer, team leader, technical coordinator and principal developer since 2001. In these projects, he has worked in all layers of software development, from technical architecture to development and testing. He is addicted to learn new technologies, develop new ideas, construct well-defined structures and teach them to others. He has already attended tens of seminars and conferences as speaker. He is sharing the slides of his talks via Slideshare. His presentations have been already viewed more than half a million times in several websites. He is a big fan of human-centric development disciplines, like agile development. He has a lot of deep experience in agile methodologies, Scrum, eXtreme Programming, agile transformation, software craftsmanship, building agile ALM processes, agile software engineering practices and building a sustainable agile development culture in organizations. He has CSM and PSM1 Scrum Master certificates. He has been working in Scrum teams as Scrum Master, Scrum Team Member and Agile Coach since 2008 (He ran 56 sprints in 4 years). He loves to share his knowledge with others. He prepares Scrum trainings and knowledge sharing sessions and enjoy coaching teams in both technical and non-technical aspects. Application life-cycle management is also his expertise. From build management to release management, from requirement analysis to monitoring, he has worked in all areas of software development. He gives special importance to test driven development, continuous integration, clean code principles and software craftsmanship. He has been doing code reviews in daily basis and coaching juniors since 2005. He is an member of GDGIstanbul and Agile Turkey communities. He is in the team who organizes the biggest agile conference in Turkey: Agile Turkey Summit. He is also the founder of Software Craftsmanship Turkey community, i.e. the only Turkish community about Software Craftsmanship. He is also the organizer of 6-years-old long-lasting Brown Bag Sessions in Sony Europe Development Team. He is sharing his experience about agile development in Turkish via agilistanbul.com with Turkish audience. He has participated in translating Agile Manifesto and Software Craftsmanship Manifesto into Turkish. He loves to spread continuous learning and drive best practices in development teams. He is eager to have the responsibility for the coding standards of the department and ensuring they are applied, the responsibility for the management of code re-use within the teams and the responsibility for the tools and frameworks used by the department."
+  thumbnailUrl: LemiOrhanErgin.jpg
+  social:
+    - {name: "twitter", link: "https://twitter.com/lemiorhan"}
+    - {name: "site", link: "http://www.lemiorhanergin.com"}
+    - {name: "github", link: "https://linkedin.com/in/lemiorhan"}
 
 -
   id: 6

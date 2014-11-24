@@ -241,3 +241,9 @@
   title: "2D Endless Runner Platformer in Unity for Android & iOS"
   description: "This talk will cover technical design choices, tips & tricks for creating an endless runner platformer for Android & iOS in Unity, with real examples from our own game Evliya Celebi: Olumsuzluk Suyu, which include: character controls, animations & state machine, level design & generation, performance optimisations, gui elements, cross-platform design, level editor"
   language: tr
+-
+  id: 146
+  speakers: [46]
+  title: "Software Craftsmanship: Building A Culture for The Future"
+  description: "Good software can only be developed by good developers. Even though 'being good' or 'success' have different meanings for everyone, something is certain: It's the culture that makes teams succeed, not the individuals. that Software Craftsmanship defines a culture for development teams where people builds not only software, but also themselfs. It is the new feeling of defining rules in software development. In this session, as the founder of software craftsmanship turkey community, I will describe what Software Craftsmanship is, why it is important and how it is different."
+  language: tr
