@@ -569,3 +569,11 @@
     - {name: "google-plus", link: "https://plus.google.com/+MiraçSATIÇ" }
     - {name: "linkedin", link: "https://www.linkedin.com/in/miracsa" }
     - {name: "twitter", link: "http://twitter.com/miracsa" }
+
+-
+  id: 44
+  name: "Murat"
+  surname: "Gürel"
+  company: "Peak Games"
+  bio: "I am an iOS Software Engineer in Peak Games, Board Studio for almost a year now. I have been developing mobile apps professionally for 2 years. At Peak Games, we have been developing board games with UIKit. Our new 2D endless platformer game is being developed with Unity. My previous works include 3 mobile apps (KafePi, Hillside Beach Order, Amarokla Karsi Karsiya), 2 mobile games (Amarokla Gucunu Goster), 1 personal app (Watch Me Later). Currently I've been developing new games & maintaining old ones at Peak Games. I graduated from University of Surrey, England with a degree in Electronics & Computer Engineering."
+  thumbnailUrl: anonymous.png
