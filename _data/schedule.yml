@@ -6,6 +6,7 @@
     - {title: "Hall B", color: "#03a9f4"}
     - {title: "Hall C", color: "#ff9800"}
     - {title: "Hall D", color: "#72e1b3"}
+    - {title: "Workshop", color: "#effb41"}
   timeslots:
     - {
     	startTime: "08:00",
