@@ -41,6 +41,7 @@
     - {name: "Mobillium", description: "Mobillium", link: "http://www.mobillium.com", imageUrl: "mobillium.png"}
     - {name: "Akıllı Yazılım", description: "Akıllı Yazılım", link: "http://www.akilliyazilim.org", imageUrl: "akilliyazilim.png"}
     - {name: "Yemeksepeti", description: "Yemek Sepeti - pizza, kebap, fast food, diyet, hamburger, balık, köfte, pide ve her türlü restorandan paket servis yemek siparişi", link: "http://www.yemeksepeti.com", imageUrl: "yemeksepeti.png"}
+    - {name: "Robotistan", description: "Türkiye'nin En Büyük Robotik Marketi | Robot Malzemeleri | Arduino | Pololu | Raspberry Pi | Beagleboard", link: "http://www.robotistan.com/", imageUrl: "robotistan.png"}
 -
   group: "Publicity partners"
   elements: 
