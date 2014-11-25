@@ -35,7 +35,7 @@
 -
   id: 102
   speakers: [2]
-  title: "5 reasons why NetBeans should be in every developers toolkit"
+  title: "5 reasons why NetBeans should be in every developer's toolkit"
   description: "If you have never heard of NetBeans, think that NetBeans is just a Java IDE, want to write better code, want to play with cool new technologies, or just want a better way to develop desktop applications quickly, this talk is for you.... I will give you a whistle stop tool of the multiple languages NetBeans supports, show you the built in examples and tools inside NetBeans for developing, testing and improving code, automating functions with netBeans, introduce you to the platform and show you how easy NetBeans makes it to build applications with very little code."
   language: en
 -
