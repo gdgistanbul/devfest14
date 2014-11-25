@@ -164,6 +164,7 @@
 -
   id: 123
   speakers: [23]
+  description: "This session will walk you through the features of Maven by starting with the anatomy of a Maven application, its build lifecycle and dependency management mechanism along with the project creation with archetypes, the configurative features and plugin development with MOJOs."
   title: "Intelligent projects with Maven"
   language: tr
 -
