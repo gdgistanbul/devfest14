@@ -4,6 +4,7 @@
   surname: "Kurka"
   company: "Google"
   title: "Engineer"
+  rockstar: true
   thumbnailUrl: DanielKurka.jpg
   ribbon:
         - {abbr: "Google", title: "Googler", url: "https://google.com"}
