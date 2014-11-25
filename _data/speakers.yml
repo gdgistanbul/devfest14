@@ -177,7 +177,7 @@
   bio: "Meet Chris, the Global Audience Development Specialist for Traffic & Discovery. He help publishers capture more, engaged & loyal users by delivering Google products/services in a simple and scalable way. He's passionate about simplifying Google for content creators and expanding Online Publishing Group's value proposition beyond monetization. With over 5 years experience growing online audiences, prior to Google he worked in Public Relations, Digital Marketing and was winner of the 2013 Digital Future Star award at Ireland’s premier Eircom Spider Awards. A self-confessed geek at heart, he has a love for all things digital and technology."
   thumbnailUrl: ChrisJones.jpg
   ribbon:
-        - {abbr: "Google", title: "Googler", url: "https://google.com"}
+      - {abbr: "Google", title: "Googler", url: "https://google.com"}
   social:
       - {name: "google-plus", link: "https://plus.google.com/+ChrisJonesGoogle"}
 
@@ -507,6 +507,18 @@
    - {name: "google-plus", link: "https://plus.google.com/+emrullahluleci"}
    - {name: "twitter", link: "https://twitter.com/emrullahluleci"}
    - {name: "github", link: "https://github.com/eluleci"}
+
+-
+  id: 50
+  name: "Ekin Eylem"
+  surname: "Özekin"
+  title: "IT Project Manager at Eastern & African Growth Market "
+  company: "GE Healthcare"
+  bio: "Eylem is a creative, passionate computer scientist who believes that life is too short for bad software. She has a decade of experience in the software industry and worked on a wide range of projects from web applications to smart factory management systems. In 2009, she joined General Electric Company where has been in different roles from software development to leading R&D teams. Eylem still works as a IT Project Manager at Eastern African Growth Market that cover 86 countries in GE Healthcare. Her recent projects includes research and development of next generation of fascinating web and mobile applications for industrial Internet. Her team has received many awards including the excellence, innovation and technology pipeline.She is also certified as PMP, Green Belt and Scrum Master. Eylem received her bachelor’s degree in computer science in 2009. She also studied a year in Austria as an Exchange student and worked in EU funded projects. She master’s degree in software engineering in 2012 from Bogazici University and currently a PhD candidate at the same university. Her current research focuses on machine learning, big data analysis and wireless networks. She currently resides in Istanbul and is passionate about new technologies. She likes playing with web in her spare times."
+  thumbnailUrl: EkinEylemOzekin.jpg
+  social:
+    - {name: "twitter", link: "http://twitter.com/eylemozekin"}
+    - {name: "linkedin", link: "http://linkedin.com/in/eylemozekin"}
 
 -
  id: 12
