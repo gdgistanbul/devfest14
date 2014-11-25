@@ -659,10 +659,10 @@
     - {name: "github", link: "http://github.com/hwclass"}
 -
   id: 51
-  name: "Özgür"
-  surname: "Aydınlı"
+  name: "İsmet"
+  surname: "Özalp"
   title: "Co-Founder"
   company: "Hive"
-  thumbnailUrl: OzgurAydinli.jpg
+  thumbnailUrl: IsmetOzalp.jpg
   social:
-    - {name: "linkedin", link: "https://linkedin.com/in/ozguraydinli"}
+    - {name: "linkedin", link: "https://linkedin.com/in/ismetozalp"}

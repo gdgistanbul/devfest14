@@ -296,4 +296,6 @@
 -
   id: 151
   speakers: [51]
+  title: "Jelastic's Approach to Cloud Hosting"
+  description: "Jelastic solutions provide a fast deployment model and easy management for private, public and hybrid clouds, all while retaining the flexibility to customize infrastructure and application configurations."
   language: tr
