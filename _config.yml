@@ -38,6 +38,7 @@ c4sponsorsUrl: "/assets/devfest2014.pdf"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
+ - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/#partners", text: "Sponsors"}
  - {permalink: "/organizers", text: "Organizers"}
