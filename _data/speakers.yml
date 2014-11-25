@@ -657,3 +657,12 @@
   social:
     - {name: "twitter", link: "http://twitter.com/hwclass"}
     - {name: "github", link: "http://github.com/hwclass"}
+-
+  id: 51
+  name: "Özgür"
+  surname: "Aydınlı"
+  title: "Co-Founder"
+  company: "Hive"
+  thumbnailUrl: OzgurAydinli.jpg
+  social:
+    - {name: "linkedin", link: "https://linkedin.com/in/ozguraydinli"}

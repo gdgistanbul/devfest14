@@ -293,3 +293,7 @@
   title: "Web Application with Go"
   description: "My presentation will be a beginner/intermediate introduction to web programming with Go. I will talk about web programming, other programming languages and tools and will mention emerging technologies such as Hadoop. Presentation will include many examples and code samples and I also plant it to be interactive with audience as much as possible."
   language: tr
+-
+  id: 151
+  speakers: [51]
+  language: tr
