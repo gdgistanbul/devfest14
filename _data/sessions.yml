@@ -269,3 +269,15 @@
   title: "Modern Development Makes Easy"
   description: "However, as a developer, the environment of a development becomes vital because it determines the quality of your code. In the other way, the extra routines can be automated by some tools like Gulp/Grunt for automated tasks, Bower for dependency management, SASS for writing enjoyful CSS, Jade for more readable and unexhausted HTML and etc. This presentation aims telling the audience about how to develop something else easier as well."
   language: tr
+-
+  id: 149
+  speakers: [49]
+  title: "Next Generation GWT: Bringing Java and Javascript Ecosystems Closer Together"
+  description: "GWT has been tremendously successful in bringing the Java ecosystem into client side web applications, but looking at the web today there is a large and vibrant JavaScript ecosystem. Join us for this talk to learn which fundamental changes the GWT team at Google is making to support the next generation of applications at Google such as Google Inbox and Google spreadsheets. Developers will be able to painlessly reuse both the Java ecosystem as well as the JavaScript ecosystem for writing hybrid Web applications. Join us for this session to learn about our new JavaScript interoperability system, how it supports the new Web Components specification, a new, efficient, standardized RPC system for JavaScript/Java, how we make GWT code execute faster."
+  language: en
+-
+  id: 249
+  speakers: [49]
+  title: "Polymer and GWT"
+  description: "Polymer and web components are a big shift in web development. Essentially this is GWT widgets built into the browser. Join me for this talk to learn what changes we are making to GWT to perfectly integrate with web components and Polymer and how the next generation of GWT applications will look like."
+  language: en

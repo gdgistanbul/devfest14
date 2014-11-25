@@ -1,4 +1,18 @@
 -
+  id: 49
+  name: "Daniel"
+  surname: "Kurka"
+  company: "Google"
+  title: "Engineer"
+  thumbnailUrl: DanielKurka.jpg
+  ribbon:
+        - {abbr: "Google", title: "Googler", url: "https://google.com"}
+  social:
+      - {name: "google-plus", link: "https://plus.google.com/+DanielKurka/posts"}
+      - {name: "linkedin", link: "https://linkedin.com/pub/daniel-kurka/54/794/579"}
+      - {name: "twitter", link: "https://twitter.com/dankurka"}
+      - {name: "site", link: "http://www.daniel-kurka.de"}
+-
   id: 13
   name: "Geertjan"
   surname: "Wielenga"
@@ -22,7 +36,7 @@
       - {abbr: "Google", title: "Googler", url: "https://google.com"}
  social:
    - {name: "google-plus", link: "https://plus.google.com/+AndyVolk"}
-   - {name: "linkedin", link: "https://www.linkedin.com/in/andyvolk"}
+   - {name: "linkedin", link: "https://linkedin.com/in/andyvolk"}
    - {name: "site", link: "http://andyvolk.com"}
    - {name: "twitter", link: "https://twitter.com/downtempo"}
 
@@ -34,7 +48,7 @@
  title: "Mobile Applications & App Store Manager at Turkcell"
  thumbnailUrl: OnderFiliz.jpg
  social:
-   - {name: "linkedin", link: "https://www.linkedin.com/pub/onder-filiz/3/a86/19b"}
+   - {name: "linkedin", link: "https://linkedin.com/pub/onder-filiz/3/a86/19b"}
    - {name: "twitter", link: "https://twitter.com/onderfiliz"}
 
 -
@@ -50,7 +64,7 @@
       - {abbr: "Champion", title: "Java Champions", url: "https://blogs.oracle.com/java/entry/new_java_champions_mert_caliskan"}
  social:
    - {name: "google-plus", link: "https://plus.google.com/115857670924602665714"}
-   - {name: "linkedin", link: "https://www.linkedin.com/in/mertcaliskan"}
+   - {name: "linkedin", link: "https://linkedin.com/in/mertcaliskan"}
    - {name: "facebook", link: "https://www.facebook.com/mertcaliskan"}
    - {name: "twitter", link: "https://twitter.com/mertcal"}
 
@@ -94,7 +108,7 @@
   rockstar: true
   social:
     - {name: "google-plus", link: "https://plus.google.com/113090026404571157484"}
-    - {name: "linkedin", link: "https://www.linkedin.com/pub/thomas-mattsson/38/80/225"}
+    - {name: "linkedin", link: "https://linkedin.com/pub/thomas-mattsson/38/80/225"}
 -
  id: 3
  name: "Wiebe"
@@ -124,7 +138,7 @@
   social:
     - {name: "google-plus", link: "https://plus.google.com/+AliDerbane"}
     - {name: "github", link: "https://github.com/aderbane"}
-    - {name: "linkedin", link: "https://www.linkedin.com/in/derbane"}
+    - {name: "linkedin", link: "https://linkedin.com/in/derbane"}
 
 -
   id: 18
@@ -151,7 +165,7 @@
   ribbon:
         - {abbr: "Google", title: "Googler", url: "https://google.com"}
   social:
-      - {name: "linkedin", link: "https://tr.linkedin.com/pub/muge-yilmaz/16/794/553"}
+      - {name: "linkedin", link: "https://linkedin.com/pub/muge-yilmaz/16/794/553"}
       - {name: "twitter", link: "https://twitter.com/mugeylmz_"}
 
 -
@@ -195,7 +209,7 @@
  social:
    - {name: "twitter", link: "https://twitter.com/ioncube"}
    - {name: "site", link: "http://ioncube.com"}
-   - {name: "linkedin", link: "https://www.linkedin.com/in/nicklindridge"}
+   - {name: "linkedin", link: "https://linkedin.com/in/nicklindridge"}
 
 -
   id: 26
@@ -361,7 +375,7 @@
  title: "Senior Solutions Architect"
  thumbnailUrl: MassimoBrignoli.jpg
  social:
-   - {name: "linkedin", link: "https://it.linkedin.com/in/massimobrignoli"}
+   - {name: "linkedin", link: "https://linkedin.com/in/massimobrignoli"}
    - {name: "twitter", link: "https://twitter.com/massimobrignoli"}
 
 -
@@ -373,7 +387,7 @@
  bio: "Naci is the Chief Scientist and founder of eteration a.s. He is an object mentor and an educator. Naci is the founder of ObjectLearn and in 2000 wrote ObjectWeb Lomboz™, an Open Source Software for JavaEE development. He is an active contributor to open source, the ObjectWeb Consortium and the Eclipse Foundation. Prior to eteration, Naci was with BEA Systems Inc. and The Object People as the Managing Director of Professional Services. With a strong foundation in Applied Engineering and Computational Physics,Naci received his Ph.D. from Carleton University, Ottawa, Canada. He is a member of the faculty at Sabanci University where he teaches object technologies, web development and distributed computing. Eteration is a member of the ObjectWeb Consortium and a member of the Eclispe Web Tools Platform Project (WTP), Project Management Committee. Naci is a member of the WTP PMC, representing ObjectWeb, and leads the Eclipse Java Standard Tools subproject. eteration is also a provider of tools, developer resources and server infrastructures to WTP project and contributes source training tools and courseware to the Eclipse Community Education Project (ECESIS)."
  thumbnailUrl: NaciDai.jpg
  social:
-   - {name: "linkedin", link: "https://tr.linkedin.com/pub/naci-dai/1/57a/bb"}
+   - {name: "linkedin", link: "https://linkedin.com/pub/naci-dai/1/57a/bb"}
    - {name: "twitter", link: "https://twitter.com/nacidai"}
    - {name: "github", link: "https://github.com/nacidai"}
 
@@ -451,7 +465,7 @@
   - {name: "google-plus", link: "https://plus.google.com/118349835803233673871"}
   - {name: "twitter", link: "https://twitter.com/fbiville"}
   - {name: "github", link: "https://github.com/fbiville"}
-  - {name: "linkedin", link: "https://www.linkedin.com/in/florentbiville"}
+  - {name: "linkedin", link: "https://linkedin.com/in/florentbiville"}
 
 -
  id: 11
@@ -464,7 +478,7 @@
  social:
    - {name: "google-plus", link: "https://www.google.com/+PietroAlbertoRossi"}
    - {name: "twitter", link: "https://twitter.com/sprik89"}
-   - {name: "linkedin", link: "http://it.linkedin.com/in/pietroalbertorossi"}
+   - {name: "linkedin", link: "http://linkedin.com/in/pietroalbertorossi"}
    - {name: "facebook", link: "https://www.facebook.com/sprikmeister"}
 
 -
@@ -529,7 +543,7 @@
  social:
    - {name: "site", link: "http://www.semihyagcioglu.com"}
    - {name: "twitter", link: "https://twitter.com/semihyagcioglu"}
-   - {name: "linkedin", link: "https://www.linkedin.com/in/semih"}
+   - {name: "linkedin", link: "https://linkedin.com/in/semih"}
    - {name: "github", link: "https://github.com/semihyagcioglu"}
 
 -
@@ -556,7 +570,7 @@
   social:
     - {name: "twitter", link: "https://twitter.com/Tolga_Egilmezel"}
     - {name: "github", link: "https://github.com/Tolga-Egilmezel"}
-    - {name: "linkedin", link: "https://www.linkedin.com/in/tolgaegilmezel"}
+    - {name: "linkedin", link: "https://linkedin.com/in/tolgaegilmezel"}
 
 -
  id: 27
@@ -572,7 +586,7 @@
     - {name: "site", link: "https://iamkaan.com"}
     - {name: "google-plus", link: "https://www.google.com/+kaanmamikoglu"}
     - {name: "github", link: "https://github.com/iamkaan"}
-    - {name: "linkedin", link: "https://www.linkedin.com/in/iamkaan"}
+    - {name: "linkedin", link: "https://linkedin.com/in/iamkaan"}
     - {name: "stack-overflow", link: "http://stackoverflow.com/users/2121682/iamkaan"}
 
 -
@@ -604,7 +618,7 @@
   social:
     - {name: "site", link: "http://mertsimsek.net"}
     - {name: "google-plus", link: "https://plus.google.com/+MertŞimşekMert"}
-    - {name: "linkedin", link: "https://www.linkedin.com/in/simsekmert"}
+    - {name: "linkedin", link: "https://linkedin.com/in/simsekmert"}
     - {name: "twitter", link: "http://twitter.com/orhunmertsimsek"}
 
 -
@@ -617,7 +631,7 @@
   social:
     - {name: "facebook", link: "http://facebook.com/miracsa"}
     - {name: "google-plus", link: "https://plus.google.com/+MiraçSATIÇ"}
-    - {name: "linkedin", link: "https://www.linkedin.com/in/miracsa"}
+    - {name: "linkedin", link: "https://linkedin.com/in/miracsa"}
     - {name: "twitter", link: "http://twitter.com/miracsa"}
 
 -
