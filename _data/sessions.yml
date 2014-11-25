@@ -252,6 +252,12 @@
   description: "This talk will cover technical design choices, tips & tricks for creating an endless runner platformer for Android & iOS in Unity, with real examples from our own game Evliya Celebi: Olumsuzluk Suyu, which include: character controls, animations & state machine, level design & generation, performance optimisations, gui elements, cross-platform design, level editor"
   language: tr
 -
+  id: 145
+  speakers: [45]
+  title: "A new era"
+  description: "Begining of new era on mobile devices and mobile apps. Time to meet with these new gagdets"
+  language: tr
+-
   id: 146
   speakers: [46]
   title: "Software Craftsmanship: Building A Culture for The Future"
