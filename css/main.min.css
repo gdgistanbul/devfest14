@@ -6198,3 +6198,8 @@ nav li a.current, nav li a:hover {
         display: none !important
     }
 }
+
+.slot-element {
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+}
