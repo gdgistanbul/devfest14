@@ -681,3 +681,16 @@
     - {name: "github", link: "https://github.com/salimkayabasi"}
     - {name: "twitter", link: "https://twitter.com/salimkayabasi"}
     - {name: "site", link: "https://blog.salimkayabasi.com"}
+
+-
+  id: 53
+  name: "Hasan"
+  surname: "Keklik"
+  title: "Developer"
+  company: "KapGel"
+  thumbnailUrl: HasanKeklik.jpg
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/hasankeklik"}
+    - {name: "github", link: "https://github.com/keklikhasan"}
+    - {name: "google-plus", link: "https://plus.google.com/+HasanKeklik"}
+    - {name: "twitter", link: "https://twitter.com/keklikhasan"}
