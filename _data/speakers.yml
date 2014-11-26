@@ -192,7 +192,7 @@
   thumbnailUrl: MuratYener.jpg
   rockstar: true
   ribbon:
-    - {abbr: "GDG", title: "Google Developer Groups Istanbul", url: "http://gdgistanbul.com"}
+    - {abbr: "GDG", title: "Google Developer Groups Istanbul", url: "http://www.gdgistanbul.com"}
   social:
       - {name: "google-plus", link: "https://google.com/+MuratYener"}
       - {name: "twitter", link: "https://twitter.com/yenerm"}
@@ -676,6 +676,8 @@
   company: "KapGel"
   bio: "After past 3 years with C# and other MS Techs, he deciced to be part of GDG Istanbul at 2012. Since that day working on Android and NodeJS. Also he founded NodeJS Turkey community with friends. Now working as full-stack developer in SaaS company for delivery business."
   thumbnailUrl: SalimKayabasi.jpg
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Groups Istanbul", url: "http://www.gdgistanbul.com"}
   social:
     - {name: "linkedin", link: "https://linkedin.com/in/salimkayabasi"}
     - {name: "github", link: "https://github.com/salimkayabasi"}
@@ -689,8 +691,26 @@
   title: "Developer"
   company: "KapGel"
   thumbnailUrl: HasanKeklik.jpg
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Groups Istanbul", url: "http://www.gdgistanbul.com"}
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/hasankeklik"}
     - {name: "github", link: "https://github.com/keklikhasan"}
     - {name: "google-plus", link: "https://plus.google.com/+HasanKeklik"}
     - {name: "twitter", link: "https://twitter.com/keklikhasan"}
+
+-
+  id: 54
+  name: "Said Tahsin"
+  surname: "Dane"
+  title: "Android Developer"
+  company: "VNGRS"
+  bio: "Android Developer who also cares about UX a lot. Trying to improve himself in terms of mobile UX as an engineer. Currently working on Leaf Business POS platform, a Boston based startup. Co-organizer at GDG Istanbul. Google Glass Explorer. Hackathon Lover."
+  thumbnailUrl: SaidTahsinDane.jpg
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Groups Istanbul", url: "http://www.gdgistanbul.com"}
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+SaidTahsinDane"}
+    - {name: "twitter", link: "https://twitter.com/tasomaniac"}
+    - {name: "github", link: "https://github.com/tasomaniac"}
+    - {name: "site", link: "http://www.tasomaniac.com"}
