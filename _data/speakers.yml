@@ -667,3 +667,17 @@
   thumbnailUrl: IsmetOzalp.jpg
   social:
     - {name: "linkedin", link: "https://linkedin.com/in/ismetozalp"}
+
+-
+  id: 52
+  name: "Salim"
+  surname: "Kayabaşı"
+  title: "Web Developer"
+  company: "KapGel"
+  bio: "After past 3 years with C# and other MS Techs, he deciced to be part of GDG Istanbul at 2012. Since that day working on Android and NodeJS. Also he founded NodeJS Turkey community with friends. Now working as full-stack developer in SaaS company for delivery business."
+  thumbnailUrl: SalimKayabasi.jpg
+  social:
+    - {name: "linkedin", link: "https://linkedin.com/in/salimkayabasi"}
+    - {name: "github", link: "https://github.com/salimkayabasi"}
+    - {name: "twitter", link: "https://twitter.com/salimkayabasi"}
+    - {name: "site", link: "https://blog.salimkayabasi.com"}
