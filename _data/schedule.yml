@@ -1,128 +1,144 @@
 -
   date: "2014-12-06"
-  dateReadable: "Sandbox"
-  parallelCount: 2
-  tracks:
-    - {parallelCount: 1, title: "MineCraft", color: "#effb41"}
-    - {parallelCount: 2, title: "Workshop", color: "#effb41"}
-  timeslots:
-    - {
-            parallelCount: 1,
-        	startTime: "13:00",
-        	endTime: "17:00",
-        	sessionIds: [999]
-      }
-    - {
-          parallelCount: 2,
-          startTime: "13:15",
-          endTime: "13:55",
-          sessionIds: [999]
-      }
-      - {
-          parallelCount: 2,
-          startTime: "14:00",
-          endTime: "14:40",
-          sessionIds: [999]
-      }
-      - {
-          parallelCount: 2,
-          startTime: "14:45",
-          endTime: "15:25",
-          sessionIds: [999]
-      }
-      - {
-          parallelCount: 2,
-          startTime: "15:30",
-          endTime: "16:10",
-          sessionIds: [999]
-      }
-      - {
-          parallelCount: 2,
-          startTime: "16:15",
-          endTime: "16:55",
-          sessionIds: [999]
-      }
--
-  date: "2014-12-06"
   dateReadable: "Sessions"
+  parallelCount: 1
   tracks:
-    - {title: "Hall A", color: "#90be4e"}
-    - {title: "Hall B", color: "#03a9f4"}
-    - {title: "Hall C", color: "#ff9800"}
-    - {title: "Hall D", color: "#72e1b3"}
+    - {parallel: 1, title: "Hall A", color: "#90be4e"}
+    - {parallel: 1, title: "Hall B", color: "#03a9f4"}
+    - {parallel: 1, title: "Hall C", color: "#ff9800"}
+    - {parallel: 1, title: "Hall D", color: "#72e1b3"}
   timeslots:
     - {
+        parallel: 1,
     	startTime: "08:00",
     	endTime: "08:45",
     	sessionIds: [996]
     }
     - {
+        parallel: 1,
         startTime: "08:45",
         endTime: "09:25",
         sessionIds: [127,114,143,147]
     }
     - {
+        parallel: 1,
         startTime: "09:30",
         endTime: "10:30",
         sessionIds: [997]
     }
     - {
+        parallel: 1,
         startTime: "10:35",
         endTime: "11:15",
         sessionIds: [102,144,142,148]
     }
     - {
+        parallel: 1,
         startTime: "11:20",
         endTime: "12:00",
         sessionIds: [113,112,107,116]
     }
     - {
+        parallel: 1,
         startTime: "12:00",
         endTime: "12:30",
         sessionIds: [998]
     }
     - {
+        parallel: 1,
         startTime: "12:30",
         endTime: "13:10",
         sessionIds: [600,105,115,135]
     }
     - {
+        parallel: 1,
         startTime: "13:15",
         endTime: "13:55",
         sessionIds: [149,126,123,103]
     }
     - {
+        parallel: 1,
         startTime: "14:00",
         endTime: "14:40",
         sessionIds: [122,130,106,104]
     }
     - {
+        parallel: 1,
         startTime: "14:45",
         endTime: "15:25",
         sessionIds: [118,249,101,108]
     }
     - {
+        parallel: 1,
         startTime: "15:30",
         endTime: "16:10",
         sessionIds: [133,119,146,111]
     }
     - {
+        parallel: 1,
         startTime: "16:15",
         endTime: "16:55",
         sessionIds: [132,120,145,150]
     }
     - {
+        parallel: 1,
         startTime: "17:00",
         endTime: "17:40",
         sessionIds: [121,141,216,134]
     }
     - {
+        parallel: 1,
         startTime: "17:45",
         endTime: "18:25",
         sessionIds: [117,124,110,601]
     }
     - {
+        parallel: 1,
         startTime: "18:30",
         endTime: "19:00",
         sessionIds: [129,125,109,151]
     }
+-
+  date: "2014-12-06"
+  dateReadable: "Sandbox"
+  parallelCount: 2
+  tracks:
+    - {parallel: 1, title: "Workshop", color: "#effb41"}
+    - {parallel: 2, title: "MineCraft", color: "#effb41"}
+  timeslots:
+    - {
+            parallel: 2,
+        	startTime: "14:00",
+        	endTime: "17:00",
+        	sessionIds: [999]
+      }
+    - {
+            parallel: 1,
+            startTime: "13:15",
+            endTime: "13:55",
+            sessionIds: [999]
+      }
+    - {
+            parallel: 1,
+            startTime: "14:00",
+            endTime: "14:40",
+            sessionIds: [999]
+      }
+    - {
+            parallel: 1,
+            startTime: "14:45",
+            endTime: "15:25",
+            sessionIds: [999]
+      }
+    - {
+            parallel: 1,
+            startTime: "15:30",
+            endTime: "16:10",
+            sessionIds: [999]
+      }
+    - {
+            parallel: 1,
+            startTime: "16:15",
+            endTime: "16:55",
+            sessionIds: [999]
+      }
