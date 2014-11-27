@@ -45,6 +45,7 @@
     - {name: "Priyoid", description: "Priyoid - Print Your Idea - 3D Yazıcı Teknolojisi - 3D Yazıcı", link: "http://www.priyoid.com/", imageUrl: "priyoid.png"}
     - {name: "Smartface", description: "Smartface", link: "http://www.smartface.io/", imageUrl: "smartface.png"}
     - {name: "Teknoloji Çözümleri Merkezi", description: "Teknoloji Çözümleri Merkezi", link: "http://www.tcm.com.tr", imageUrl: "tcm.png"}
+    - {name: "NomPlus", description: "NomPlus", link: "http://www.nomplus.com.tr", imageUrl: "nomplus.jpg"}
 -
   group: "Publicity partners"
   elements: 
