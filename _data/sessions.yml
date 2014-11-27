@@ -65,6 +65,8 @@
 -
   id: 107
   speakers: [7]
+  title: "Developing for the Big Screen - from Android TV to Chromecast"
+  description: "With the new release of Lollipop we have finally an updated API Level for Google TV, oops Android TV. This is not the only approach by Google for the large screen. There is also the Chromecast, a HDMI dongle/ media player. This Session gives an introduction how you can develop for Android TV and the ChromeCast. It presents the tools and also the support library for creating own Screens, based on an example application."
   language: en
 -
   id: 108
