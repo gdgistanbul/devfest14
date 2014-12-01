@@ -46,6 +46,7 @@
     - {name: "Smartface", description: "Smartface", link: "http://www.smartface.io/", imageUrl: "smartface.png"}
     - {name: "Teknoloji Çözümleri Merkezi", description: "Teknoloji Çözümleri Merkezi", link: "http://www.tcm.com.tr", imageUrl: "tcm.png"}
     - {name: "NomPlus", description: "NomPlus", link: "http://www.nomplus.com.tr", imageUrl: "nomplus.jpg"}
+    - {name: "Arasokak", description: "Arasokak", link: "http://www.arasokakistanbul.com/", imageUrl: "arasokak.png"}
 -
   group: "Publicity partners"
   elements: 
