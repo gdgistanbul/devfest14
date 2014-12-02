@@ -49,7 +49,7 @@
     - {name: "Priyoid", description: "Priyoid - Print Your Idea - 3D Yazıcı Teknolojisi - 3D Yazıcı", link: "http://www.priyoid.com/", imageUrl: "priyoid.png"}
     - {name: "Smartface", description: "Smartface", link: "http://www.smartface.io/", imageUrl: "smartface.png"}
     - {name: "Teknoloji Çözümleri Merkezi", description: "Teknoloji Çözümleri Merkezi", link: "http://www.tcm.com.tr", imageUrl: "tcm.png"}
-    - {name: "Arasokak", description: "Arasokak", link: "http://www.arasokakistanbul.com/", imageUrl: "arasokak.png"}
+    - {name: "Arasokak", description: "Arasokak", link: "http://www.arasokakistanbul.com/", imageUrl: "arasokak.jpg"}
 -
   group: "Publicity partners"
   elements: 
