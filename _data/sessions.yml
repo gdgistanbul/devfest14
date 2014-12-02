@@ -85,7 +85,7 @@
   speakers: [10]
   title: "Realtime Android Applications with Web Socket"
   description: "In this talk we'll take a look at web socket usage in Android applications and we'll see how to update the models and UI effectively according to the instant data changes from the server."
-  language: tr
+  language: en
 -
   id: 111
   speakers: [11]
