@@ -727,4 +727,17 @@
     - {name: "google-plus", link: "https://plus.google.com/+VildanIlki"}
     - {name: "twitter", link: "https://twitter.com/vildanilki"}
     - {name: "linkedin", link: "https://tr.linkedin.com/in/vildanilki/"}
+
+-
+  id: 56
+  name: "Faruk"
+  surname: "Yazıcı"
+  title: "Software Developer"
+  company: "Eteration A.Ş."
+  bio: "Faruk studied computer engineering at İstanbul Technical University. He has several years of software development experience in many platforms, mainly in Java and Android. Besides his personal projects and applications written in Android, he is now a part of enterprise development. Aside from programming, he has over 5 years of professional experience in UI design a few years in UX development. Also, since his early years in university, Faruk has been giving lectures on some programming languages and design programs. He currently works as an application developer and instructor at Eteration A.Ş."
+  thumbnailUrl: FurkanYazici.jpg
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/u/0/101075787936951189536/"}
+    - {name: "facebook", link: "https://www.facebook.com/profile.php?id=847054366"}
+    - {name: "linkedin", link: "https://www.linkedin.com/profile/view?id=189715005&trk=spm_pic"}
     
