@@ -714,3 +714,17 @@
     - {name: "twitter", link: "https://twitter.com/tasomaniac"}
     - {name: "github", link: "https://github.com/tasomaniac"}
     - {name: "site", link: "http://www.tasomaniac.com"}
+
+-
+  id: 55
+  name: "Vildan"
+  surname: "Ilkı"
+  title: "Android Developer"
+  company: "Türksat A.Ş."
+  bio: "Vildan studied computer engineering at Eskisehir Osmangazi University. Now, still studying softwate management at Middle East Technical University. She has been working at Turksat since 2012, developing Android applications for FATIH Project. She is interested in new technologies on mobile and application security."
+  thumbnailUrl: VildanIlki.jpg
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+VildanIlki"}
+    - {name: "twitter", link: "https://twitter.com/vildanilki"}
+    - {name: "linkedin", link: "https://tr.linkedin.com/in/vildanilki/"}
+    
