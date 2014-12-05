@@ -399,7 +399,7 @@
   company: "KapGel"
   title: "CTO"
   bio: "CTO at KapGel, a SaaS company for delivery business. Previously employed by Facebook on database engineering team."
-  thumbnailUrl: NizamOrdulu.png
+  thumbnailUrl: NizamOrdulu.jpg
   social:
     - {name: "facebook", link: "https://facebook.com/no"}
 
@@ -743,7 +743,7 @@
   title: "Software Developer"
   company: "Eteration A.Ş."
   bio: "Faruk studied computer engineering at İstanbul Technical University. He has several years of software development experience in many platforms, mainly in Java and Android. Besides his personal projects and applications written in Android, he is now a part of enterprise development. Aside from programming, he has over 5 years of professional experience in UI design a few years in UX development. Also, since his early years in university, Faruk has been giving lectures on some programming languages and design programs. He currently works as an application developer and instructor at Eteration A.Ş."
-  thumbnailUrl: FurkanYazici.jpg
+  thumbnailUrl: FurkanYazici.png
   social: 
     - {name: "google-plus", link: "https://plus.google.com/u/0/101075787936951189536/"}
     - {name: "facebook", link: "https://www.facebook.com/profile.php?id=847054366"}
@@ -753,11 +753,25 @@
   id: 57
   name: "Aycan"
   surname: "Aracı"
+  company: "GDG Istanbul"
+  bio: "I graduated from METU in 2012. I worked as a game designer at Pixofun for 1.5 years. Now I am working for Infoline Information Technologies. My passion is about gaming and I am trying to share my experience about psychological product design and development. I am a member of GDG Ankara."
+  thumbnailUrl: AycanAraci.png
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Groups Ankara", url: "http://www.gdgankara.com"}
+  social: 
+    - {name: "twitter", link: "https://twitter.com/thinksimpler"}
+    - {name: "linkedin", link: "tr.linkedin.com/in/aycanaraci/"}
+
 
 -
   id: 58
   name: "Oytun Eren"
   surname: "Sengul"
+  company: "Userspots"
+  bio: "He is interested in everything related to mobile, community, operating systems and kernels. Currently, he’s working on mobile UX projects and is the Business & Communications Director at Userspots. Proudly member of Linux Foundation and is a contributor in Intel Software projects. He is one of the developers of Automotive Grade Linux. Currently, working on SLP and presents his studies on various conferences. He took part in various Smartface Inc., Nokia and Turkcell projects as a Community Manager. I’ve started with Maemo and MeeGo, but now I’m developing for iOS, Android, Windows Phone and Tizen."
+  thumbnailUrl: OytunSengul.png
+  social: 
+    - {name: "twitter", link: "https://twitter.com/oytunatlinux"}
 
 -
   id: 59
