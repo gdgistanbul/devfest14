@@ -342,7 +342,7 @@
   speakers: [3,4]
   title: "Bitching App Clinic"
   description: ""
-  language: tr
+  language: en
 -
   id: 159
   speakers: [33,54]
@@ -354,13 +354,13 @@
   speakers: [2,13]
   title: "Java/HTML5/SVG/NetBeans Clinic and Demos"
   description: ""
-  language: tr
+  language: en
 -
   id: 161
   speakers: [59,15]
   title: "PHP Clinic"
   description: ""
-  language: tr
+  language: en
 -
   id: 162
   speakers: []
