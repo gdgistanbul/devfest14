@@ -110,7 +110,7 @@
             parallel: 2,
         	startTime: "10:00",
         	endTime: "17:00",
-        	sessionIds: [999]
+        	sessionIds: [162]
       }
     - {
             parallel: 1,

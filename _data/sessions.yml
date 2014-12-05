@@ -316,7 +316,7 @@
 -
   id: 154
   speakers: []
-  title: "Galileo "
+  title: "Intel Workshop"
   description: ""
   language: tr
 -
@@ -359,5 +359,11 @@
   id: 161
   speakers: [59,15]
   title: "PHP Clinic"
+  description: ""
+  language: tr
+-
+  id: 162
+  speakers: []
+  title: "Minecraft Hacking for Kids"
   description: ""
   language: tr
