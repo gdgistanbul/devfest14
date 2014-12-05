@@ -755,7 +755,7 @@
   surname: "Aracı"
   company: "GDG Istanbul"
   bio: "I graduated from METU in 2012. I worked as a game designer at Pixofun for 1.5 years. Now I am working for Infoline Information Technologies. My passion is about gaming and I am trying to share my experience about psychological product design and development. I am a member of GDG Ankara."
-  thumbnailUrl: AycanAraci.png
+  thumbnailUrl: AycanAraci.jpg
   ribbon:
     - {abbr: "GDG", title: "Google Developer Groups Ankara", url: "http://www.gdgankara.com"}
   social: 
@@ -769,7 +769,7 @@
   surname: "Sengul"
   company: "Userspots"
   bio: "He is interested in everything related to mobile, community, operating systems and kernels. Currently, he’s working on mobile UX projects and is the Business & Communications Director at Userspots. Proudly member of Linux Foundation and is a contributor in Intel Software projects. He is one of the developers of Automotive Grade Linux. Currently, working on SLP and presents his studies on various conferences. He took part in various Smartface Inc., Nokia and Turkcell projects as a Community Manager. I’ve started with Maemo and MeeGo, but now I’m developing for iOS, Android, Windows Phone and Tizen."
-  thumbnailUrl: OytunSengul.png
+  thumbnailUrl: OytunSengul.jpg
   social: 
     - {name: "twitter", link: "https://twitter.com/oytunatlinux"}
 
