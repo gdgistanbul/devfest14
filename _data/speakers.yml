@@ -740,4 +740,18 @@
     - {name: "google-plus", link: "https://plus.google.com/u/0/101075787936951189536/"}
     - {name: "facebook", link: "https://www.facebook.com/profile.php?id=847054366"}
     - {name: "linkedin", link: "https://www.linkedin.com/profile/view?id=189715005&trk=spm_pic"}
-    
+
+-
+  id: 57
+  name: "Aycan"
+  surname: "Aracı"
+
+-
+  id: 58
+  name: "Oytun Eren"
+  surname: "Sengul"
+
+-
+  id: 59
+  name: "Dorine"
+  surname: "Flies"

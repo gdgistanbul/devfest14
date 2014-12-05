@@ -301,3 +301,63 @@
   title: "Jelastic's Approach to Cloud Hosting"
   description: "Jelastic solutions provide a fast deployment model and easy management for private, public and hybrid clouds, all while retaining the flexibility to customize infrastructure and application configurations."
   language: tr
+-
+  id: 152
+  speakers: [55,56]
+  title: "Android 101"
+  description: ""
+  language: tr
+-
+  id: 153
+  speakers: [57]
+  title: "Understanding the Psychology Behind Game Design "
+  description: ""
+  language: tr
+-
+  id: 154
+  speakers: []
+  title: "Galileo "
+  description: ""
+  language: tr
+-
+  id: 155
+  speakers: [58]
+  title: "Better UX for ATM"
+  description: ""
+  language: tr
+-
+  id: 156
+  speakers: [52]
+  title: "Polymer"
+  description: ""
+  language: tr
+-
+  id: 157
+  speakers: [53,54]
+  title: "Wearable Workshop"
+  description: ""
+  language: tr
+-
+  id: 158
+  speakers: [3,4]
+  title: "Bitching App Clinic"
+  description: ""
+  language: tr
+-
+  id: 159
+  speakers: [33,54]
+  title: "Google Glass"
+  description: ""
+  language: tr
+-
+  id: 160
+  speakers: [2,13]
+  title: "Java/HTML5/SVG/NetBeans Clinic and Demos"
+  description: ""
+  language: tr
+-
+  id: 161
+  speakers: [59,15]
+  title: "PHP Clinic"
+  description: ""
+  language: tr
