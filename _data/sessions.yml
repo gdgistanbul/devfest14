@@ -182,7 +182,7 @@
   description: "Frameworks are undeniably one of the most important elements of frameworks. As we continue to witness a significant increase in number of framework-based attacks towards web applications each day, usage of Frameworks without considering security-related aspects continue to be the most drastic problem that developers face. Throughout the presentation; Mr. İnce will analyze one of the most commonly-used PHP web frameworks by highlighting important security considerations; followed by a real-time exploitation of discovered vulnerability in LAB environment."
   language: tr
 -
-  id: 126
+  id: 130
   speakers: [26]
   title: "Develop, Distribute and Monetize with Google Mobile Ads"
   description: "General understanding of mobile application monetization: Develop, Distribute, Monetize. Monetizing with Scale and Quality. Why Google AdMob: UX and Value. Analyzing Users with Google Analytics and leveraging the opportunity. Exploring Mediation and latest offerings of Google Mobile Ads."
@@ -200,7 +200,7 @@
   description: "In this section, some tricks and hints about optimizing an Android app’s performance will be given. There will be compare between “the good” and “the bad” ones. Then “how would we optimize the bad one?” will be discussed."
   language: tr
 -
-  id: 130
+  id: 126
   speakers: [30,31]
   title: "Audience Development and App Analytics with Google"
   description: "Useful tips on Audience Development and Understanding your users"
