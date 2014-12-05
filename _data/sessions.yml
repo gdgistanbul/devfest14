@@ -9,7 +9,7 @@
 -
   id: 997
   title: "Welcome to DevFest'14 Istanbul"
-  service: true
+  speakers: [36,60]
 -
   id: 996
   title: "Registration"

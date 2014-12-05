@@ -755,3 +755,11 @@
   id: 59
   name: "Dorine"
   surname: "Flies"
+
+-
+  id: 60
+  name: "Koray"
+  surname: "Bahar"
+  title: "CTO"
+  company: "FIT Solutions"
+  thumbnailUrl: KorayBahar.jpg
